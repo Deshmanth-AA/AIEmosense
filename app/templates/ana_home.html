@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Dashboard</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f4f4f9; /* Light background color */
+            color: #333; /* Text color */
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        h1 {
+            text-align: center;
+            margin: 20px 0;
+            color: #2c3e50;
+        }
+
+        h2 {
+            text-align: center;
+            margin: 20px 0;
+            color: #2c3e50;
+        }
+
+        .container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 20px;
+            padding: 20px;
+        }
+
+        .card {
+            background: #ffffff; /* White card background */
+            border-radius: 12px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+            width: 300px;
+            padding: 20px;
+            text-align: center;
+            transition: transform 0.3s, box-shadow 0.3s;
+        }
+
+        .card:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+        }
+
+        button {
+            margin: 10px 0;
+            padding: 12px 20px;
+            font-size: 16px;
+            font-weight: bold;
+            color: white;
+            background-color: #007bff; /* Blue primary button */
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+            transition: background-color 0.3s, transform 0.3s;
+        }
+
+        button:hover {
+            background-color: #0056b3; /* Darker blue on hover */
+            transform: scale(1.05);
+        }
+
+        .sub-options button {
+            background-color: #f39c12; /* Contrast sub-button color */
+            color: white;
+        }
+
+        .sub-options button:hover {
+            background-color: #d35400; /* Darker contrast hover */
+        }
+
+        .sub-options {
+            margin-top: 15px;
+            display: flex;
+            flex-direction: column;
+            gap: 10px; /* Spacing between sub-buttons */
+        }
+
+        .hidden {
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <h1>Student Analytics Dashboard</h1>
+        <div class="container">
+            <!-- Attendance Analysis Card -->
+            <div class="card">
+                <h2>Attendance Analysis</h2>
+                <button onclick="toggleSection('attendance-options')">Explore</button>
+                <div id="attendance-options" class="sub-options hidden">
+                    <button onclick="window.location.href='/attendance/overall'">Overall Attendance</button>
+                    <button onclick="window.location.href='/attendance/monthly'">Monthly Attendance</button>
+                    <button onclick="window.location.href='/attendance/weekly'">Weekly Attendance</button>
+                </div>
+            </div>
+
+            <!-- Emotion Analysis Card -->
+            <div class="card">
+                <h2>Emotion Analysis</h2>
+                <button onclick="toggleSection('emotion-options')">Explore</button>
+                <div id="emotion-options" class="sub-options hidden">
+                    <button onclick="window.location.href='/emotion/overall'">Overall Emotion</button>
+                    <button onclick="window.location.href='/emotion/individual'">Individual Emotion</button>
+                    <button onclick="window.location.href='/emotion/monthly'">Monthly Emotion</button>
+                    <button onclick="window.location.href='/emotion/weekly'">Weekly Emotion</button>
+                </div>
+            </div>
+
+            <!-- Subject Analysis Card -->
+            <div class="card">
+                <h2>Subject Analysis</h2>
+                <button onclick="toggleSection('subject-options')">Explore</button>
+                <div id="subject-options" class="sub-options hidden">
+                    <button onclick="window.location.href='/subject/emotion'">Emotion by Subject</button>
+                    <button onclick="window.location.href='/subject/attendance'">Attendance by Subject</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        function toggleSection(sectionId) {
+            const sections = document.querySelectorAll('.sub-options');
+            sections.forEach(section => section.classList.add('hidden'));
+
+            const targetSection = document.getElementById(sectionId);
+            if (targetSection) {
+                targetSection.classList.toggle('hidden');
+            }
+        }
+    </script>
+</body>
+</html>

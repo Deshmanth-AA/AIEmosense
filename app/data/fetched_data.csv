@@ -1,0 +1,3241 @@
+name,attendance,emotion,subject,date,time
+Deshmanth A,Present,,AAI,2023-09-01,10:00 AM
+Hithesh K,Absent,Angry,AAI,2023-09-01,10:00 AM
+Pratham K Gujjar,Present,,AAI,2023-09-01,10:00 AM
+Shabarish B L,Absent,Happiness,AAI,2023-09-01,10:00 AM
+Deshmanth A,Absent,,CC,2023-09-01,11:00 AM
+Hithesh K,Absent,Happiness,CC,2023-09-01,11:00 AM
+Pratham K Gujjar,Present,,CC,2023-09-01,11:00 AM
+Shabarish B L,Present,Sadness,CC,2023-09-01,11:00 AM
+Deshmanth A,Present,,SNA,2023-09-01,12:00 PM
+Hithesh K,Absent,Angry,SNA,2023-09-01,12:00 PM
+Pratham K Gujjar,Present,,SNA,2023-09-01,12:00 PM
+Shabarish B L,Present,,SNA,2023-09-01,12:00 PM
+Deshmanth A,Absent,Angry,AAI,2023-09-01,1:00 PM
+Hithesh K,Present,Happiness,AAI,2023-09-01,1:00 PM
+Pratham K Gujjar,Absent,Neutral,AAI,2023-09-01,1:00 PM
+Shabarish B L,Absent,,AAI,2023-09-01,1:00 PM
+Deshmanth A,Present,Angry,CC,2023-09-02,10:00 AM
+Hithesh K,Absent,Sadness,CC,2023-09-02,10:00 AM
+Pratham K Gujjar,Present,Sadness,CC,2023-09-02,10:00 AM
+Shabarish B L,Present,,CC,2023-09-02,10:00 AM
+Deshmanth A,Present,Angry,SNA,2023-09-02,11:00 AM
+Hithesh K,Present,Angry,SNA,2023-09-02,11:00 AM
+Pratham K Gujjar,Absent,Neutral,SNA,2023-09-02,11:00 AM
+Shabarish B L,Absent,,SNA,2023-09-02,11:00 AM
+Deshmanth A,Present,Neutral,AAI,2023-09-02,12:00 PM
+Hithesh K,Absent,,AAI,2023-09-02,12:00 PM
+Pratham K Gujjar,Absent,Angry,AAI,2023-09-02,12:00 PM
+Shabarish B L,Absent,Neutral,AAI,2023-09-02,12:00 PM
+Deshmanth A,Present,,CC,2023-09-02,1:00 PM
+Hithesh K,Present,Happiness,CC,2023-09-02,1:00 PM
+Pratham K Gujjar,Present,,CC,2023-09-02,1:00 PM
+Shabarish B L,Absent,Happiness,CC,2023-09-02,1:00 PM
+Deshmanth A,Present,,SNA,2023-09-03,10:00 AM
+Hithesh K,Present,Sadness,SNA,2023-09-03,10:00 AM
+Pratham K Gujjar,Absent,,SNA,2023-09-03,10:00 AM
+Shabarish B L,Present,,SNA,2023-09-03,10:00 AM
+Deshmanth A,Present,,AAI,2023-09-03,11:00 AM
+Hithesh K,Absent,,AAI,2023-09-03,11:00 AM
+Pratham K Gujjar,Absent,,AAI,2023-09-03,11:00 AM
+Shabarish B L,Absent,Sadness,AAI,2023-09-03,11:00 AM
+Deshmanth A,Absent,Neutral,CC,2023-09-03,12:00 PM
+Hithesh K,Absent,,CC,2023-09-03,12:00 PM
+Pratham K Gujjar,Present,,CC,2023-09-03,12:00 PM
+Shabarish B L,Absent,Neutral,CC,2023-09-03,12:00 PM
+Deshmanth A,Present,Happiness,SNA,2023-09-03,1:00 PM
+Hithesh K,Absent,,SNA,2023-09-03,1:00 PM
+Pratham K Gujjar,Absent,,SNA,2023-09-03,1:00 PM
+Shabarish B L,Absent,Sadness,SNA,2023-09-03,1:00 PM
+Deshmanth A,Present,Angry,AAI,2023-09-04,10:00 AM
+Hithesh K,Present,,AAI,2023-09-04,10:00 AM
+Pratham K Gujjar,Absent,Angry,AAI,2023-09-04,10:00 AM
+Shabarish B L,Present,Neutral,AAI,2023-09-04,10:00 AM
+Deshmanth A,Present,Sadness,CC,2023-09-04,11:00 AM
+Hithesh K,Absent,Angry,CC,2023-09-04,11:00 AM
+Pratham K Gujjar,Present,,CC,2023-09-04,11:00 AM
+Shabarish B L,Present,Sadness,CC,2023-09-04,11:00 AM
+Deshmanth A,Absent,Neutral,SNA,2023-09-04,12:00 PM
+Hithesh K,Present,,SNA,2023-09-04,12:00 PM
+Pratham K Gujjar,Present,Neutral,SNA,2023-09-04,12:00 PM
+Shabarish B L,Absent,Happiness,SNA,2023-09-04,12:00 PM
+Deshmanth A,Absent,,AAI,2023-09-04,1:00 PM
+Hithesh K,Absent,Sadness,AAI,2023-09-04,1:00 PM
+Pratham K Gujjar,Present,Sadness,AAI,2023-09-04,1:00 PM
+Shabarish B L,Absent,Angry,AAI,2023-09-04,1:00 PM
+Deshmanth A,Absent,Neutral,CC,2023-09-05,10:00 AM
+Hithesh K,Present,Sadness,CC,2023-09-05,10:00 AM
+Pratham K Gujjar,Absent,,CC,2023-09-05,10:00 AM
+Shabarish B L,Present,Happiness,CC,2023-09-05,10:00 AM
+Deshmanth A,Absent,Neutral,SNA,2023-09-05,11:00 AM
+Hithesh K,Absent,Neutral,SNA,2023-09-05,11:00 AM
+Pratham K Gujjar,Absent,,SNA,2023-09-05,11:00 AM
+Shabarish B L,Absent,,SNA,2023-09-05,11:00 AM
+Deshmanth A,Absent,Angry,AAI,2023-09-05,12:00 PM
+Hithesh K,Present,,AAI,2023-09-05,12:00 PM
+Pratham K Gujjar,Absent,,AAI,2023-09-05,12:00 PM
+Shabarish B L,Present,,AAI,2023-09-05,12:00 PM
+Deshmanth A,Present,Neutral,CC,2023-09-05,1:00 PM
+Hithesh K,Present,,CC,2023-09-05,1:00 PM
+Pratham K Gujjar,Absent,Sadness,CC,2023-09-05,1:00 PM
+Shabarish B L,Present,,CC,2023-09-05,1:00 PM
+Deshmanth A,Present,,SNA,2023-09-06,10:00 AM
+Hithesh K,Present,Happiness,SNA,2023-09-06,10:00 AM
+Pratham K Gujjar,Present,Happiness,SNA,2023-09-06,10:00 AM
+Shabarish B L,Absent,Neutral,SNA,2023-09-06,10:00 AM
+Deshmanth A,Absent,,AAI,2023-09-06,11:00 AM
+Hithesh K,Absent,Sadness,AAI,2023-09-06,11:00 AM
+Pratham K Gujjar,Absent,Sadness,AAI,2023-09-06,11:00 AM
+Shabarish B L,Absent,,AAI,2023-09-06,11:00 AM
+Deshmanth A,Absent,Neutral,CC,2023-09-06,12:00 PM
+Hithesh K,Present,,CC,2023-09-06,12:00 PM
+Pratham K Gujjar,Present,,CC,2023-09-06,12:00 PM
+Shabarish B L,Present,Angry,CC,2023-09-06,12:00 PM
+Deshmanth A,Present,,SNA,2023-09-06,1:00 PM
+Hithesh K,Absent,,SNA,2023-09-06,1:00 PM
+Pratham K Gujjar,Present,Neutral,SNA,2023-09-06,1:00 PM
+Shabarish B L,Present,,SNA,2023-09-06,1:00 PM
+Deshmanth A,Present,Angry,AAI,2023-09-07,10:00 AM
+Hithesh K,Present,Sadness,AAI,2023-09-07,10:00 AM
+Pratham K Gujjar,Present,Angry,AAI,2023-09-07,10:00 AM
+Shabarish B L,Absent,Happiness,AAI,2023-09-07,10:00 AM
+Deshmanth A,Present,,CC,2023-09-07,11:00 AM
+Hithesh K,Absent,,CC,2023-09-07,11:00 AM
+Pratham K Gujjar,Absent,,CC,2023-09-07,11:00 AM
+Shabarish B L,Present,Happiness,CC,2023-09-07,11:00 AM
+Deshmanth A,Absent,,SNA,2023-09-07,12:00 PM
+Hithesh K,Present,,SNA,2023-09-07,12:00 PM
+Pratham K Gujjar,Present,Angry,SNA,2023-09-07,12:00 PM
+Shabarish B L,Present,,SNA,2023-09-07,12:00 PM
+Deshmanth A,Absent,Angry,AAI,2023-09-07,1:00 PM
+Hithesh K,Absent,Neutral,AAI,2023-09-07,1:00 PM
+Pratham K Gujjar,Present,Sadness,AAI,2023-09-07,1:00 PM
+Shabarish B L,Absent,Neutral,AAI,2023-09-07,1:00 PM
+Deshmanth A,Absent,Sadness,CC,2023-09-08,10:00 AM
+Hithesh K,Present,,CC,2023-09-08,10:00 AM
+Pratham K Gujjar,Absent,Neutral,CC,2023-09-08,10:00 AM
+Shabarish B L,Present,Neutral,CC,2023-09-08,10:00 AM
+Deshmanth A,Absent,Angry,SNA,2023-09-08,11:00 AM
+Hithesh K,Absent,Happiness,SNA,2023-09-08,11:00 AM
+Pratham K Gujjar,Absent,,SNA,2023-09-08,11:00 AM
+Shabarish B L,Present,,SNA,2023-09-08,11:00 AM
+Deshmanth A,Absent,Sadness,AAI,2023-09-08,12:00 PM
+Hithesh K,Absent,Neutral,AAI,2023-09-08,12:00 PM
+Pratham K Gujjar,Present,,AAI,2023-09-08,12:00 PM
+Shabarish B L,Present,Sadness,AAI,2023-09-08,12:00 PM
+Deshmanth A,Absent,,CC,2023-09-08,1:00 PM
+Hithesh K,Present,Neutral,CC,2023-09-08,1:00 PM
+Pratham K Gujjar,Absent,Angry,CC,2023-09-08,1:00 PM
+Shabarish B L,Absent,,CC,2023-09-08,1:00 PM
+Deshmanth A,Present,Angry,SNA,2023-09-09,10:00 AM
+Hithesh K,Present,,SNA,2023-09-09,10:00 AM
+Pratham K Gujjar,Present,Happiness,SNA,2023-09-09,10:00 AM
+Shabarish B L,Present,Angry,SNA,2023-09-09,10:00 AM
+Deshmanth A,Absent,,AAI,2023-09-09,11:00 AM
+Hithesh K,Present,,AAI,2023-09-09,11:00 AM
+Pratham K Gujjar,Absent,Angry,AAI,2023-09-09,11:00 AM
+Shabarish B L,Absent,,AAI,2023-09-09,11:00 AM
+Deshmanth A,Absent,,CC,2023-09-09,12:00 PM
+Hithesh K,Absent,,CC,2023-09-09,12:00 PM
+Pratham K Gujjar,Present,,CC,2023-09-09,12:00 PM
+Shabarish B L,Present,Angry,CC,2023-09-09,12:00 PM
+Deshmanth A,Absent,,SNA,2023-09-09,1:00 PM
+Hithesh K,Absent,,SNA,2023-09-09,1:00 PM
+Pratham K Gujjar,Present,,SNA,2023-09-09,1:00 PM
+Shabarish B L,Absent,Sadness,SNA,2023-09-09,1:00 PM
+Deshmanth A,Absent,,AAI,2023-09-10,10:00 AM
+Hithesh K,Absent,Happiness,AAI,2023-09-10,10:00 AM
+Pratham K Gujjar,Present,Angry,AAI,2023-09-10,10:00 AM
+Shabarish B L,Absent,,AAI,2023-09-10,10:00 AM
+Deshmanth A,Present,Angry,CC,2023-09-10,11:00 AM
+Hithesh K,Present,Happiness,CC,2023-09-10,11:00 AM
+Pratham K Gujjar,Absent,,CC,2023-09-10,11:00 AM
+Shabarish B L,Present,,CC,2023-09-10,11:00 AM
+Deshmanth A,Present,,SNA,2023-09-10,12:00 PM
+Hithesh K,Present,Neutral,SNA,2023-09-10,12:00 PM
+Pratham K Gujjar,Present,,SNA,2023-09-10,12:00 PM
+Shabarish B L,Absent,,SNA,2023-09-10,12:00 PM
+Deshmanth A,Absent,Sadness,AAI,2023-09-10,1:00 PM
+Hithesh K,Present,,AAI,2023-09-10,1:00 PM
+Pratham K Gujjar,Present,Happiness,AAI,2023-09-10,1:00 PM
+Shabarish B L,Absent,,AAI,2023-09-10,1:00 PM
+Deshmanth A,Absent,Angry,CC,2023-09-11,10:00 AM
+Hithesh K,Absent,,CC,2023-09-11,10:00 AM
+Pratham K Gujjar,Present,,CC,2023-09-11,10:00 AM
+Shabarish B L,Absent,,CC,2023-09-11,10:00 AM
+Deshmanth A,Present,,SNA,2023-09-11,11:00 AM
+Hithesh K,Present,,SNA,2023-09-11,11:00 AM
+Pratham K Gujjar,Present,,SNA,2023-09-11,11:00 AM
+Shabarish B L,Absent,Neutral,SNA,2023-09-11,11:00 AM
+Deshmanth A,Absent,Angry,AAI,2023-09-11,12:00 PM
+Hithesh K,Absent,Happiness,AAI,2023-09-11,12:00 PM
+Pratham K Gujjar,Absent,,AAI,2023-09-11,12:00 PM
+Shabarish B L,Absent,Angry,AAI,2023-09-11,12:00 PM
+Deshmanth A,Present,,CC,2023-09-11,1:00 PM
+Hithesh K,Absent,Happiness,CC,2023-09-11,1:00 PM
+Pratham K Gujjar,Absent,Happiness,CC,2023-09-11,1:00 PM
+Shabarish B L,Present,Angry,CC,2023-09-11,1:00 PM
+Deshmanth A,Present,,SNA,2023-09-12,10:00 AM
+Hithesh K,Present,Happiness,SNA,2023-09-12,10:00 AM
+Pratham K Gujjar,Absent,,SNA,2023-09-12,10:00 AM
+Shabarish B L,Present,,SNA,2023-09-12,10:00 AM
+Deshmanth A,Absent,Sadness,AAI,2023-09-12,11:00 AM
+Hithesh K,Present,,AAI,2023-09-12,11:00 AM
+Pratham K Gujjar,Present,Happiness,AAI,2023-09-12,11:00 AM
+Shabarish B L,Absent,Happiness,AAI,2023-09-12,11:00 AM
+Deshmanth A,Absent,,CC,2023-09-12,12:00 PM
+Hithesh K,Present,,CC,2023-09-12,12:00 PM
+Pratham K Gujjar,Present,Sadness,CC,2023-09-12,12:00 PM
+Shabarish B L,Present,Angry,CC,2023-09-12,12:00 PM
+Deshmanth A,Present,Neutral,SNA,2023-09-12,1:00 PM
+Hithesh K,Absent,,SNA,2023-09-12,1:00 PM
+Pratham K Gujjar,Present,Neutral,SNA,2023-09-12,1:00 PM
+Shabarish B L,Present,,SNA,2023-09-12,1:00 PM
+Deshmanth A,Absent,Happiness,AAI,2023-09-13,10:00 AM
+Hithesh K,Present,Happiness,AAI,2023-09-13,10:00 AM
+Pratham K Gujjar,Present,Neutral,AAI,2023-09-13,10:00 AM
+Shabarish B L,Present,Angry,AAI,2023-09-13,10:00 AM
+Deshmanth A,Present,Neutral,CC,2023-09-13,11:00 AM
+Hithesh K,Present,Neutral,CC,2023-09-13,11:00 AM
+Pratham K Gujjar,Present,Sadness,CC,2023-09-13,11:00 AM
+Shabarish B L,Present,,CC,2023-09-13,11:00 AM
+Deshmanth A,Absent,Happiness,SNA,2023-09-13,12:00 PM
+Hithesh K,Present,Happiness,SNA,2023-09-13,12:00 PM
+Pratham K Gujjar,Present,,SNA,2023-09-13,12:00 PM
+Shabarish B L,Absent,,SNA,2023-09-13,12:00 PM
+Deshmanth A,Present,Neutral,AAI,2023-09-13,1:00 PM
+Hithesh K,Absent,Neutral,AAI,2023-09-13,1:00 PM
+Pratham K Gujjar,Absent,,AAI,2023-09-13,1:00 PM
+Shabarish B L,Absent,,AAI,2023-09-13,1:00 PM
+Deshmanth A,Absent,,CC,2023-09-14,10:00 AM
+Hithesh K,Present,Neutral,CC,2023-09-14,10:00 AM
+Pratham K Gujjar,Present,,CC,2023-09-14,10:00 AM
+Shabarish B L,Present,,CC,2023-09-14,10:00 AM
+Deshmanth A,Absent,,SNA,2023-09-14,11:00 AM
+Hithesh K,Absent,Angry,SNA,2023-09-14,11:00 AM
+Pratham K Gujjar,Absent,Sadness,SNA,2023-09-14,11:00 AM
+Shabarish B L,Absent,Angry,SNA,2023-09-14,11:00 AM
+Deshmanth A,Absent,,AAI,2023-09-14,12:00 PM
+Hithesh K,Absent,Happiness,AAI,2023-09-14,12:00 PM
+Pratham K Gujjar,Absent,,AAI,2023-09-14,12:00 PM
+Shabarish B L,Present,Sadness,AAI,2023-09-14,12:00 PM
+Deshmanth A,Present,,CC,2023-09-14,1:00 PM
+Hithesh K,Present,,CC,2023-09-14,1:00 PM
+Pratham K Gujjar,Absent,,CC,2023-09-14,1:00 PM
+Shabarish B L,Absent,,CC,2023-09-14,1:00 PM
+Deshmanth A,Present,Neutral,SNA,2023-09-15,10:00 AM
+Hithesh K,Present,,SNA,2023-09-15,10:00 AM
+Pratham K Gujjar,Absent,Happiness,SNA,2023-09-15,10:00 AM
+Shabarish B L,Present,,SNA,2023-09-15,10:00 AM
+Deshmanth A,Absent,,AAI,2023-09-15,11:00 AM
+Hithesh K,Absent,Angry,AAI,2023-09-15,11:00 AM
+Pratham K Gujjar,Present,,AAI,2023-09-15,11:00 AM
+Shabarish B L,Present,,AAI,2023-09-15,11:00 AM
+Deshmanth A,Absent,Happiness,CC,2023-09-15,12:00 PM
+Hithesh K,Absent,,CC,2023-09-15,12:00 PM
+Pratham K Gujjar,Absent,Happiness,CC,2023-09-15,12:00 PM
+Shabarish B L,Absent,,CC,2023-09-15,12:00 PM
+Deshmanth A,Present,,SNA,2023-09-15,1:00 PM
+Hithesh K,Absent,Angry,SNA,2023-09-15,1:00 PM
+Pratham K Gujjar,Absent,Angry,SNA,2023-09-15,1:00 PM
+Shabarish B L,Present,,SNA,2023-09-15,1:00 PM
+Deshmanth A,Absent,,AAI,2023-09-16,10:00 AM
+Hithesh K,Present,,AAI,2023-09-16,10:00 AM
+Pratham K Gujjar,Absent,,AAI,2023-09-16,10:00 AM
+Shabarish B L,Present,,AAI,2023-09-16,10:00 AM
+Deshmanth A,Absent,,CC,2023-09-16,11:00 AM
+Hithesh K,Present,Sadness,CC,2023-09-16,11:00 AM
+Pratham K Gujjar,Present,,CC,2023-09-16,11:00 AM
+Shabarish B L,Present,Angry,CC,2023-09-16,11:00 AM
+Deshmanth A,Present,Angry,SNA,2023-09-16,12:00 PM
+Hithesh K,Absent,,SNA,2023-09-16,12:00 PM
+Pratham K Gujjar,Absent,,SNA,2023-09-16,12:00 PM
+Shabarish B L,Present,Angry,SNA,2023-09-16,12:00 PM
+Deshmanth A,Absent,Angry,AAI,2023-09-16,1:00 PM
+Hithesh K,Present,,AAI,2023-09-16,1:00 PM
+Pratham K Gujjar,Present,Neutral,AAI,2023-09-16,1:00 PM
+Shabarish B L,Absent,Angry,AAI,2023-09-16,1:00 PM
+Deshmanth A,Absent,Happiness,CC,2023-09-17,10:00 AM
+Hithesh K,Absent,,CC,2023-09-17,10:00 AM
+Pratham K Gujjar,Absent,Angry,CC,2023-09-17,10:00 AM
+Shabarish B L,Present,,CC,2023-09-17,10:00 AM
+Deshmanth A,Absent,,SNA,2023-09-17,11:00 AM
+Hithesh K,Absent,,SNA,2023-09-17,11:00 AM
+Pratham K Gujjar,Present,,SNA,2023-09-17,11:00 AM
+Shabarish B L,Absent,,SNA,2023-09-17,11:00 AM
+Deshmanth A,Absent,Angry,AAI,2023-09-17,12:00 PM
+Hithesh K,Absent,,AAI,2023-09-17,12:00 PM
+Pratham K Gujjar,Absent,Neutral,AAI,2023-09-17,12:00 PM
+Shabarish B L,Absent,,AAI,2023-09-17,12:00 PM
+Deshmanth A,Absent,Sadness,CC,2023-09-17,1:00 PM
+Hithesh K,Present,,CC,2023-09-17,1:00 PM
+Pratham K Gujjar,Absent,Neutral,CC,2023-09-17,1:00 PM
+Shabarish B L,Absent,,CC,2023-09-17,1:00 PM
+Deshmanth A,Present,,SNA,2023-09-18,10:00 AM
+Hithesh K,Present,,SNA,2023-09-18,10:00 AM
+Pratham K Gujjar,Absent,Neutral,SNA,2023-09-18,10:00 AM
+Shabarish B L,Present,,SNA,2023-09-18,10:00 AM
+Deshmanth A,Present,,AAI,2023-09-18,11:00 AM
+Hithesh K,Present,,AAI,2023-09-18,11:00 AM
+Pratham K Gujjar,Present,,AAI,2023-09-18,11:00 AM
+Shabarish B L,Present,,AAI,2023-09-18,11:00 AM
+Deshmanth A,Absent,,CC,2023-09-18,12:00 PM
+Hithesh K,Present,Angry,CC,2023-09-18,12:00 PM
+Pratham K Gujjar,Absent,Happiness,CC,2023-09-18,12:00 PM
+Shabarish B L,Absent,,CC,2023-09-18,12:00 PM
+Deshmanth A,Present,,SNA,2023-09-18,1:00 PM
+Hithesh K,Present,Neutral,SNA,2023-09-18,1:00 PM
+Pratham K Gujjar,Absent,,SNA,2023-09-18,1:00 PM
+Shabarish B L,Absent,Angry,SNA,2023-09-18,1:00 PM
+Deshmanth A,Absent,,AAI,2023-09-19,10:00 AM
+Hithesh K,Absent,,AAI,2023-09-19,10:00 AM
+Pratham K Gujjar,Absent,,AAI,2023-09-19,10:00 AM
+Shabarish B L,Present,Angry,AAI,2023-09-19,10:00 AM
+Deshmanth A,Absent,Neutral,CC,2023-09-19,11:00 AM
+Hithesh K,Absent,Happiness,CC,2023-09-19,11:00 AM
+Pratham K Gujjar,Absent,,CC,2023-09-19,11:00 AM
+Shabarish B L,Present,,CC,2023-09-19,11:00 AM
+Deshmanth A,Present,,SNA,2023-09-19,12:00 PM
+Hithesh K,Present,,SNA,2023-09-19,12:00 PM
+Pratham K Gujjar,Present,Sadness,SNA,2023-09-19,12:00 PM
+Shabarish B L,Present,Happiness,SNA,2023-09-19,12:00 PM
+Deshmanth A,Absent,Angry,AAI,2023-09-19,1:00 PM
+Hithesh K,Absent,,AAI,2023-09-19,1:00 PM
+Pratham K Gujjar,Absent,,AAI,2023-09-19,1:00 PM
+Shabarish B L,Present,Angry,AAI,2023-09-19,1:00 PM
+Deshmanth A,Present,Angry,CC,2023-09-20,10:00 AM
+Hithesh K,Present,Angry,CC,2023-09-20,10:00 AM
+Pratham K Gujjar,Present,Neutral,CC,2023-09-20,10:00 AM
+Shabarish B L,Present,,CC,2023-09-20,10:00 AM
+Deshmanth A,Present,,SNA,2023-09-20,11:00 AM
+Hithesh K,Present,Neutral,SNA,2023-09-20,11:00 AM
+Pratham K Gujjar,Present,,SNA,2023-09-20,11:00 AM
+Shabarish B L,Present,,SNA,2023-09-20,11:00 AM
+Deshmanth A,Absent,Neutral,AAI,2023-09-20,12:00 PM
+Hithesh K,Present,Neutral,AAI,2023-09-20,12:00 PM
+Pratham K Gujjar,Absent,,AAI,2023-09-20,12:00 PM
+Shabarish B L,Present,Angry,AAI,2023-09-20,12:00 PM
+Deshmanth A,Absent,Sadness,CC,2023-09-20,1:00 PM
+Hithesh K,Present,,CC,2023-09-20,1:00 PM
+Pratham K Gujjar,Absent,Happiness,CC,2023-09-20,1:00 PM
+Shabarish B L,Present,Angry,CC,2023-09-20,1:00 PM
+Deshmanth A,Present,,SNA,2023-09-21,10:00 AM
+Hithesh K,Absent,,SNA,2023-09-21,10:00 AM
+Pratham K Gujjar,Present,Neutral,SNA,2023-09-21,10:00 AM
+Shabarish B L,Present,,SNA,2023-09-21,10:00 AM
+Deshmanth A,Present,Sadness,AAI,2023-09-21,11:00 AM
+Hithesh K,Present,Angry,AAI,2023-09-21,11:00 AM
+Pratham K Gujjar,Present,Happiness,AAI,2023-09-21,11:00 AM
+Shabarish B L,Absent,,AAI,2023-09-21,11:00 AM
+Deshmanth A,Absent,,CC,2023-09-21,12:00 PM
+Hithesh K,Absent,Sadness,CC,2023-09-21,12:00 PM
+Pratham K Gujjar,Present,Neutral,CC,2023-09-21,12:00 PM
+Shabarish B L,Absent,Sadness,CC,2023-09-21,12:00 PM
+Deshmanth A,Present,,SNA,2023-09-21,1:00 PM
+Hithesh K,Present,,SNA,2023-09-21,1:00 PM
+Pratham K Gujjar,Present,,SNA,2023-09-21,1:00 PM
+Shabarish B L,Present,,SNA,2023-09-21,1:00 PM
+Deshmanth A,Absent,,AAI,2023-09-22,10:00 AM
+Hithesh K,Absent,Sadness,AAI,2023-09-22,10:00 AM
+Pratham K Gujjar,Present,,AAI,2023-09-22,10:00 AM
+Shabarish B L,Absent,Sadness,AAI,2023-09-22,10:00 AM
+Deshmanth A,Absent,Neutral,CC,2023-09-22,11:00 AM
+Hithesh K,Absent,Sadness,CC,2023-09-22,11:00 AM
+Pratham K Gujjar,Absent,Neutral,CC,2023-09-22,11:00 AM
+Shabarish B L,Absent,,CC,2023-09-22,11:00 AM
+Deshmanth A,Absent,Neutral,SNA,2023-09-22,12:00 PM
+Hithesh K,Absent,,SNA,2023-09-22,12:00 PM
+Pratham K Gujjar,Absent,,SNA,2023-09-22,12:00 PM
+Shabarish B L,Present,Happiness,SNA,2023-09-22,12:00 PM
+Deshmanth A,Absent,Angry,AAI,2023-09-22,1:00 PM
+Hithesh K,Absent,,AAI,2023-09-22,1:00 PM
+Pratham K Gujjar,Absent,Neutral,AAI,2023-09-22,1:00 PM
+Shabarish B L,Present,,AAI,2023-09-22,1:00 PM
+Deshmanth A,Absent,Angry,CC,2023-09-23,10:00 AM
+Hithesh K,Absent,Happiness,CC,2023-09-23,10:00 AM
+Pratham K Gujjar,Present,Sadness,CC,2023-09-23,10:00 AM
+Shabarish B L,Present,Happiness,CC,2023-09-23,10:00 AM
+Deshmanth A,Absent,,SNA,2023-09-23,11:00 AM
+Hithesh K,Absent,Happiness,SNA,2023-09-23,11:00 AM
+Pratham K Gujjar,Absent,,SNA,2023-09-23,11:00 AM
+Shabarish B L,Present,,SNA,2023-09-23,11:00 AM
+Deshmanth A,Present,Neutral,AAI,2023-09-23,12:00 PM
+Hithesh K,Absent,,AAI,2023-09-23,12:00 PM
+Pratham K Gujjar,Present,Neutral,AAI,2023-09-23,12:00 PM
+Shabarish B L,Absent,Happiness,AAI,2023-09-23,12:00 PM
+Deshmanth A,Absent,Neutral,CC,2023-09-23,1:00 PM
+Hithesh K,Present,Neutral,CC,2023-09-23,1:00 PM
+Pratham K Gujjar,Present,,CC,2023-09-23,1:00 PM
+Shabarish B L,Present,,CC,2023-09-23,1:00 PM
+Deshmanth A,Absent,,SNA,2023-09-24,10:00 AM
+Hithesh K,Present,,SNA,2023-09-24,10:00 AM
+Pratham K Gujjar,Present,Angry,SNA,2023-09-24,10:00 AM
+Shabarish B L,Absent,Happiness,SNA,2023-09-24,10:00 AM
+Deshmanth A,Present,Angry,AAI,2023-09-24,11:00 AM
+Hithesh K,Present,Sadness,AAI,2023-09-24,11:00 AM
+Pratham K Gujjar,Present,,AAI,2023-09-24,11:00 AM
+Shabarish B L,Absent,Sadness,AAI,2023-09-24,11:00 AM
+Deshmanth A,Absent,Happiness,CC,2023-09-24,12:00 PM
+Hithesh K,Absent,Happiness,CC,2023-09-24,12:00 PM
+Pratham K Gujjar,Absent,,CC,2023-09-24,12:00 PM
+Shabarish B L,Absent,Sadness,CC,2023-09-24,12:00 PM
+Deshmanth A,Absent,,SNA,2023-09-24,1:00 PM
+Hithesh K,Present,Neutral,SNA,2023-09-24,1:00 PM
+Pratham K Gujjar,Present,Neutral,SNA,2023-09-24,1:00 PM
+Shabarish B L,Present,Happiness,SNA,2023-09-24,1:00 PM
+Deshmanth A,Absent,Angry,AAI,2023-09-25,10:00 AM
+Hithesh K,Present,Sadness,AAI,2023-09-25,10:00 AM
+Pratham K Gujjar,Absent,,AAI,2023-09-25,10:00 AM
+Shabarish B L,Present,Happiness,AAI,2023-09-25,10:00 AM
+Deshmanth A,Present,Sadness,CC,2023-09-25,11:00 AM
+Hithesh K,Absent,,CC,2023-09-25,11:00 AM
+Pratham K Gujjar,Present,Angry,CC,2023-09-25,11:00 AM
+Shabarish B L,Absent,Angry,CC,2023-09-25,11:00 AM
+Deshmanth A,Absent,Sadness,SNA,2023-09-25,12:00 PM
+Hithesh K,Present,,SNA,2023-09-25,12:00 PM
+Pratham K Gujjar,Present,Happiness,SNA,2023-09-25,12:00 PM
+Shabarish B L,Absent,,SNA,2023-09-25,12:00 PM
+Deshmanth A,Absent,,AAI,2023-09-25,1:00 PM
+Hithesh K,Present,Angry,AAI,2023-09-25,1:00 PM
+Pratham K Gujjar,Absent,,AAI,2023-09-25,1:00 PM
+Shabarish B L,Present,Sadness,AAI,2023-09-25,1:00 PM
+Deshmanth A,Absent,Sadness,CC,2023-09-26,10:00 AM
+Hithesh K,Present,Sadness,CC,2023-09-26,10:00 AM
+Pratham K Gujjar,Absent,Angry,CC,2023-09-26,10:00 AM
+Shabarish B L,Present,,CC,2023-09-26,10:00 AM
+Deshmanth A,Absent,Angry,SNA,2023-09-26,11:00 AM
+Hithesh K,Absent,,SNA,2023-09-26,11:00 AM
+Pratham K Gujjar,Present,,SNA,2023-09-26,11:00 AM
+Shabarish B L,Present,Happiness,SNA,2023-09-26,11:00 AM
+Deshmanth A,Present,,AAI,2023-09-26,12:00 PM
+Hithesh K,Present,Happiness,AAI,2023-09-26,12:00 PM
+Pratham K Gujjar,Present,,AAI,2023-09-26,12:00 PM
+Shabarish B L,Absent,Neutral,AAI,2023-09-26,12:00 PM
+Deshmanth A,Present,,CC,2023-09-26,1:00 PM
+Hithesh K,Present,Happiness,CC,2023-09-26,1:00 PM
+Pratham K Gujjar,Present,Happiness,CC,2023-09-26,1:00 PM
+Shabarish B L,Absent,Happiness,CC,2023-09-26,1:00 PM
+Deshmanth A,Present,,SNA,2023-09-27,10:00 AM
+Hithesh K,Present,,SNA,2023-09-27,10:00 AM
+Pratham K Gujjar,Absent,Happiness,SNA,2023-09-27,10:00 AM
+Shabarish B L,Present,,SNA,2023-09-27,10:00 AM
+Deshmanth A,Absent,,AAI,2023-09-27,11:00 AM
+Hithesh K,Absent,Sadness,AAI,2023-09-27,11:00 AM
+Pratham K Gujjar,Absent,Happiness,AAI,2023-09-27,11:00 AM
+Shabarish B L,Present,,AAI,2023-09-27,11:00 AM
+Deshmanth A,Absent,,CC,2023-09-27,12:00 PM
+Hithesh K,Absent,,CC,2023-09-27,12:00 PM
+Pratham K Gujjar,Present,,CC,2023-09-27,12:00 PM
+Shabarish B L,Absent,,CC,2023-09-27,12:00 PM
+Deshmanth A,Present,Angry,SNA,2023-09-27,1:00 PM
+Hithesh K,Absent,Angry,SNA,2023-09-27,1:00 PM
+Pratham K Gujjar,Present,Angry,SNA,2023-09-27,1:00 PM
+Shabarish B L,Absent,Neutral,SNA,2023-09-27,1:00 PM
+Deshmanth A,Absent,,AAI,2023-09-28,10:00 AM
+Hithesh K,Absent,,AAI,2023-09-28,10:00 AM
+Pratham K Gujjar,Present,,AAI,2023-09-28,10:00 AM
+Shabarish B L,Present,,AAI,2023-09-28,10:00 AM
+Deshmanth A,Present,Angry,CC,2023-09-28,11:00 AM
+Hithesh K,Present,Neutral,CC,2023-09-28,11:00 AM
+Pratham K Gujjar,Absent,,CC,2023-09-28,11:00 AM
+Shabarish B L,Present,Angry,CC,2023-09-28,11:00 AM
+Deshmanth A,Present,Happiness,SNA,2023-09-28,12:00 PM
+Hithesh K,Absent,Happiness,SNA,2023-09-28,12:00 PM
+Pratham K Gujjar,Absent,,SNA,2023-09-28,12:00 PM
+Shabarish B L,Absent,Happiness,SNA,2023-09-28,12:00 PM
+Deshmanth A,Present,,AAI,2023-09-28,1:00 PM
+Hithesh K,Present,Happiness,AAI,2023-09-28,1:00 PM
+Pratham K Gujjar,Present,,AAI,2023-09-28,1:00 PM
+Shabarish B L,Present,,AAI,2023-09-28,1:00 PM
+Deshmanth A,Absent,Angry,CC,2023-09-29,10:00 AM
+Hithesh K,Absent,Neutral,CC,2023-09-29,10:00 AM
+Pratham K Gujjar,Absent,Sadness,CC,2023-09-29,10:00 AM
+Shabarish B L,Absent,Neutral,CC,2023-09-29,10:00 AM
+Deshmanth A,Absent,,SNA,2023-09-29,11:00 AM
+Hithesh K,Present,Neutral,SNA,2023-09-29,11:00 AM
+Pratham K Gujjar,Absent,,SNA,2023-09-29,11:00 AM
+Shabarish B L,Present,Neutral,SNA,2023-09-29,11:00 AM
+Deshmanth A,Present,Happiness,AAI,2023-09-29,12:00 PM
+Hithesh K,Present,Sadness,AAI,2023-09-29,12:00 PM
+Pratham K Gujjar,Present,Angry,AAI,2023-09-29,12:00 PM
+Shabarish B L,Absent,Sadness,AAI,2023-09-29,12:00 PM
+Deshmanth A,Present,,CC,2023-09-29,1:00 PM
+Hithesh K,Absent,Neutral,CC,2023-09-29,1:00 PM
+Pratham K Gujjar,Absent,Sadness,CC,2023-09-29,1:00 PM
+Shabarish B L,Present,Angry,CC,2023-09-29,1:00 PM
+Deshmanth A,Present,Neutral,SNA,2023-09-30,10:00 AM
+Hithesh K,Present,Happiness,SNA,2023-09-30,10:00 AM
+Pratham K Gujjar,Absent,,SNA,2023-09-30,10:00 AM
+Shabarish B L,Absent,Happiness,SNA,2023-09-30,10:00 AM
+Deshmanth A,Present,Angry,AAI,2023-09-30,11:00 AM
+Hithesh K,Absent,,AAI,2023-09-30,11:00 AM
+Pratham K Gujjar,Present,Happiness,AAI,2023-09-30,11:00 AM
+Shabarish B L,Present,Neutral,AAI,2023-09-30,11:00 AM
+Deshmanth A,Present,Happiness,CC,2023-09-30,12:00 PM
+Hithesh K,Present,Angry,CC,2023-09-30,12:00 PM
+Pratham K Gujjar,Present,,CC,2023-09-30,12:00 PM
+Shabarish B L,Absent,Angry,CC,2023-09-30,12:00 PM
+Deshmanth A,Present,Sadness,SNA,2023-09-30,1:00 PM
+Hithesh K,Present,Angry,SNA,2023-09-30,1:00 PM
+Pratham K Gujjar,Absent,Neutral,SNA,2023-09-30,1:00 PM
+Shabarish B L,Present,Happiness,SNA,2023-09-30,1:00 PM
+Deshmanth A,Absent,,AAI,2023-10-01,10:00 AM
+Hithesh K,Absent,,AAI,2023-10-01,10:00 AM
+Pratham K Gujjar,Present,,AAI,2023-10-01,10:00 AM
+Shabarish B L,Absent,,AAI,2023-10-01,10:00 AM
+Deshmanth A,Absent,,CC,2023-10-01,11:00 AM
+Hithesh K,Absent,Sadness,CC,2023-10-01,11:00 AM
+Pratham K Gujjar,Absent,,CC,2023-10-01,11:00 AM
+Shabarish B L,Present,,CC,2023-10-01,11:00 AM
+Deshmanth A,Absent,,SNA,2023-10-01,12:00 PM
+Hithesh K,Present,Neutral,SNA,2023-10-01,12:00 PM
+Pratham K Gujjar,Present,,SNA,2023-10-01,12:00 PM
+Shabarish B L,Absent,,SNA,2023-10-01,12:00 PM
+Deshmanth A,Present,,AAI,2023-10-01,1:00 PM
+Hithesh K,Absent,Neutral,AAI,2023-10-01,1:00 PM
+Pratham K Gujjar,Present,,AAI,2023-10-01,1:00 PM
+Shabarish B L,Absent,,AAI,2023-10-01,1:00 PM
+Deshmanth A,Absent,Happiness,CC,2023-10-02,10:00 AM
+Hithesh K,Absent,,CC,2023-10-02,10:00 AM
+Pratham K Gujjar,Absent,,CC,2023-10-02,10:00 AM
+Shabarish B L,Present,,CC,2023-10-02,10:00 AM
+Deshmanth A,Absent,Happiness,SNA,2023-10-02,11:00 AM
+Hithesh K,Absent,,SNA,2023-10-02,11:00 AM
+Pratham K Gujjar,Absent,Happiness,SNA,2023-10-02,11:00 AM
+Shabarish B L,Present,,SNA,2023-10-02,11:00 AM
+Deshmanth A,Absent,Happiness,AAI,2023-10-02,12:00 PM
+Hithesh K,Absent,Neutral,AAI,2023-10-02,12:00 PM
+Pratham K Gujjar,Present,,AAI,2023-10-02,12:00 PM
+Shabarish B L,Absent,Angry,AAI,2023-10-02,12:00 PM
+Deshmanth A,Absent,,CC,2023-10-02,1:00 PM
+Hithesh K,Present,,CC,2023-10-02,1:00 PM
+Pratham K Gujjar,Present,,CC,2023-10-02,1:00 PM
+Shabarish B L,Absent,Sadness,CC,2023-10-02,1:00 PM
+Deshmanth A,Present,Sadness,SNA,2023-10-03,10:00 AM
+Hithesh K,Absent,,SNA,2023-10-03,10:00 AM
+Pratham K Gujjar,Present,,SNA,2023-10-03,10:00 AM
+Shabarish B L,Absent,,SNA,2023-10-03,10:00 AM
+Deshmanth A,Absent,Sadness,AAI,2023-10-03,11:00 AM
+Hithesh K,Present,Neutral,AAI,2023-10-03,11:00 AM
+Pratham K Gujjar,Absent,Angry,AAI,2023-10-03,11:00 AM
+Shabarish B L,Present,,AAI,2023-10-03,11:00 AM
+Deshmanth A,Present,Angry,CC,2023-10-03,12:00 PM
+Hithesh K,Present,,CC,2023-10-03,12:00 PM
+Pratham K Gujjar,Absent,,CC,2023-10-03,12:00 PM
+Shabarish B L,Present,,CC,2023-10-03,12:00 PM
+Deshmanth A,Present,,SNA,2023-10-03,1:00 PM
+Hithesh K,Present,,SNA,2023-10-03,1:00 PM
+Pratham K Gujjar,Absent,,SNA,2023-10-03,1:00 PM
+Shabarish B L,Absent,Happiness,SNA,2023-10-03,1:00 PM
+Deshmanth A,Absent,,AAI,2023-10-04,10:00 AM
+Hithesh K,Absent,,AAI,2023-10-04,10:00 AM
+Pratham K Gujjar,Present,,AAI,2023-10-04,10:00 AM
+Shabarish B L,Absent,,AAI,2023-10-04,10:00 AM
+Deshmanth A,Absent,Sadness,CC,2023-10-04,11:00 AM
+Hithesh K,Present,,CC,2023-10-04,11:00 AM
+Pratham K Gujjar,Absent,,CC,2023-10-04,11:00 AM
+Shabarish B L,Absent,Sadness,CC,2023-10-04,11:00 AM
+Deshmanth A,Present,,SNA,2023-10-04,12:00 PM
+Hithesh K,Absent,Angry,SNA,2023-10-04,12:00 PM
+Pratham K Gujjar,Present,,SNA,2023-10-04,12:00 PM
+Shabarish B L,Absent,,SNA,2023-10-04,12:00 PM
+Deshmanth A,Absent,,AAI,2023-10-04,1:00 PM
+Hithesh K,Present,,AAI,2023-10-04,1:00 PM
+Pratham K Gujjar,Present,Happiness,AAI,2023-10-04,1:00 PM
+Shabarish B L,Absent,Neutral,AAI,2023-10-04,1:00 PM
+Deshmanth A,Absent,Neutral,CC,2023-10-05,10:00 AM
+Hithesh K,Absent,Neutral,CC,2023-10-05,10:00 AM
+Pratham K Gujjar,Present,,CC,2023-10-05,10:00 AM
+Shabarish B L,Absent,Angry,CC,2023-10-05,10:00 AM
+Deshmanth A,Present,Neutral,SNA,2023-10-05,11:00 AM
+Hithesh K,Absent,Neutral,SNA,2023-10-05,11:00 AM
+Pratham K Gujjar,Absent,Angry,SNA,2023-10-05,11:00 AM
+Shabarish B L,Present,Neutral,SNA,2023-10-05,11:00 AM
+Deshmanth A,Present,Sadness,AAI,2023-10-05,12:00 PM
+Hithesh K,Present,,AAI,2023-10-05,12:00 PM
+Pratham K Gujjar,Absent,Neutral,AAI,2023-10-05,12:00 PM
+Shabarish B L,Absent,Sadness,AAI,2023-10-05,12:00 PM
+Deshmanth A,Present,Angry,CC,2023-10-05,1:00 PM
+Hithesh K,Absent,Happiness,CC,2023-10-05,1:00 PM
+Pratham K Gujjar,Absent,,CC,2023-10-05,1:00 PM
+Shabarish B L,Absent,,CC,2023-10-05,1:00 PM
+Deshmanth A,Present,,SNA,2023-10-06,10:00 AM
+Hithesh K,Absent,Sadness,SNA,2023-10-06,10:00 AM
+Pratham K Gujjar,Present,,SNA,2023-10-06,10:00 AM
+Shabarish B L,Absent,Happiness,SNA,2023-10-06,10:00 AM
+Deshmanth A,Absent,Neutral,AAI,2023-10-06,11:00 AM
+Hithesh K,Present,Neutral,AAI,2023-10-06,11:00 AM
+Pratham K Gujjar,Present,,AAI,2023-10-06,11:00 AM
+Shabarish B L,Absent,Neutral,AAI,2023-10-06,11:00 AM
+Deshmanth A,Present,Neutral,CC,2023-10-06,12:00 PM
+Hithesh K,Absent,,CC,2023-10-06,12:00 PM
+Pratham K Gujjar,Absent,Neutral,CC,2023-10-06,12:00 PM
+Shabarish B L,Present,Neutral,CC,2023-10-06,12:00 PM
+Deshmanth A,Present,,SNA,2023-10-06,1:00 PM
+Hithesh K,Present,,SNA,2023-10-06,1:00 PM
+Pratham K Gujjar,Absent,,SNA,2023-10-06,1:00 PM
+Shabarish B L,Present,Angry,SNA,2023-10-06,1:00 PM
+Deshmanth A,Present,,AAI,2023-10-07,10:00 AM
+Hithesh K,Absent,Angry,AAI,2023-10-07,10:00 AM
+Pratham K Gujjar,Present,Happiness,AAI,2023-10-07,10:00 AM
+Shabarish B L,Absent,,AAI,2023-10-07,10:00 AM
+Deshmanth A,Present,,CC,2023-10-07,11:00 AM
+Hithesh K,Absent,,CC,2023-10-07,11:00 AM
+Pratham K Gujjar,Absent,,CC,2023-10-07,11:00 AM
+Shabarish B L,Present,,CC,2023-10-07,11:00 AM
+Deshmanth A,Absent,Happiness,SNA,2023-10-07,12:00 PM
+Hithesh K,Present,,SNA,2023-10-07,12:00 PM
+Pratham K Gujjar,Present,,SNA,2023-10-07,12:00 PM
+Shabarish B L,Present,Neutral,SNA,2023-10-07,12:00 PM
+Deshmanth A,Absent,Sadness,AAI,2023-10-07,1:00 PM
+Hithesh K,Present,Happiness,AAI,2023-10-07,1:00 PM
+Pratham K Gujjar,Absent,Angry,AAI,2023-10-07,1:00 PM
+Shabarish B L,Present,Neutral,AAI,2023-10-07,1:00 PM
+Deshmanth A,Absent,,CC,2023-10-08,10:00 AM
+Hithesh K,Present,Neutral,CC,2023-10-08,10:00 AM
+Pratham K Gujjar,Present,,CC,2023-10-08,10:00 AM
+Shabarish B L,Present,,CC,2023-10-08,10:00 AM
+Deshmanth A,Absent,,SNA,2023-10-08,11:00 AM
+Hithesh K,Present,Sadness,SNA,2023-10-08,11:00 AM
+Pratham K Gujjar,Present,Happiness,SNA,2023-10-08,11:00 AM
+Shabarish B L,Absent,,SNA,2023-10-08,11:00 AM
+Deshmanth A,Present,Happiness,AAI,2023-10-08,12:00 PM
+Hithesh K,Present,,AAI,2023-10-08,12:00 PM
+Pratham K Gujjar,Absent,,AAI,2023-10-08,12:00 PM
+Shabarish B L,Absent,Happiness,AAI,2023-10-08,12:00 PM
+Deshmanth A,Present,,CC,2023-10-08,1:00 PM
+Hithesh K,Absent,Sadness,CC,2023-10-08,1:00 PM
+Pratham K Gujjar,Absent,Neutral,CC,2023-10-08,1:00 PM
+Shabarish B L,Present,,CC,2023-10-08,1:00 PM
+Deshmanth A,Absent,,SNA,2023-10-09,10:00 AM
+Hithesh K,Present,,SNA,2023-10-09,10:00 AM
+Pratham K Gujjar,Absent,,SNA,2023-10-09,10:00 AM
+Shabarish B L,Present,Angry,SNA,2023-10-09,10:00 AM
+Deshmanth A,Absent,,AAI,2023-10-09,11:00 AM
+Hithesh K,Absent,,AAI,2023-10-09,11:00 AM
+Pratham K Gujjar,Absent,,AAI,2023-10-09,11:00 AM
+Shabarish B L,Absent,,AAI,2023-10-09,11:00 AM
+Deshmanth A,Absent,Angry,CC,2023-10-09,12:00 PM
+Hithesh K,Absent,,CC,2023-10-09,12:00 PM
+Pratham K Gujjar,Absent,Sadness,CC,2023-10-09,12:00 PM
+Shabarish B L,Present,,CC,2023-10-09,12:00 PM
+Deshmanth A,Absent,,SNA,2023-10-09,1:00 PM
+Hithesh K,Absent,,SNA,2023-10-09,1:00 PM
+Pratham K Gujjar,Present,,SNA,2023-10-09,1:00 PM
+Shabarish B L,Absent,,SNA,2023-10-09,1:00 PM
+Deshmanth A,Absent,Sadness,AAI,2023-10-10,10:00 AM
+Hithesh K,Present,Happiness,AAI,2023-10-10,10:00 AM
+Pratham K Gujjar,Present,Angry,AAI,2023-10-10,10:00 AM
+Shabarish B L,Absent,Angry,AAI,2023-10-10,10:00 AM
+Deshmanth A,Present,Sadness,CC,2023-10-10,11:00 AM
+Hithesh K,Present,Neutral,CC,2023-10-10,11:00 AM
+Pratham K Gujjar,Present,,CC,2023-10-10,11:00 AM
+Shabarish B L,Absent,Neutral,CC,2023-10-10,11:00 AM
+Deshmanth A,Absent,,SNA,2023-10-10,12:00 PM
+Hithesh K,Present,Neutral,SNA,2023-10-10,12:00 PM
+Pratham K Gujjar,Absent,,SNA,2023-10-10,12:00 PM
+Shabarish B L,Absent,,SNA,2023-10-10,12:00 PM
+Deshmanth A,Absent,Angry,AAI,2023-10-10,1:00 PM
+Hithesh K,Present,,AAI,2023-10-10,1:00 PM
+Pratham K Gujjar,Present,,AAI,2023-10-10,1:00 PM
+Shabarish B L,Absent,,AAI,2023-10-10,1:00 PM
+Deshmanth A,Present,Neutral,CC,2023-10-11,10:00 AM
+Hithesh K,Absent,,CC,2023-10-11,10:00 AM
+Pratham K Gujjar,Absent,Happiness,CC,2023-10-11,10:00 AM
+Shabarish B L,Absent,Neutral,CC,2023-10-11,10:00 AM
+Deshmanth A,Absent,,SNA,2023-10-11,11:00 AM
+Hithesh K,Present,,SNA,2023-10-11,11:00 AM
+Pratham K Gujjar,Present,,SNA,2023-10-11,11:00 AM
+Shabarish B L,Absent,Angry,SNA,2023-10-11,11:00 AM
+Deshmanth A,Present,,AAI,2023-10-11,12:00 PM
+Hithesh K,Present,Sadness,AAI,2023-10-11,12:00 PM
+Pratham K Gujjar,Present,Angry,AAI,2023-10-11,12:00 PM
+Shabarish B L,Present,,AAI,2023-10-11,12:00 PM
+Deshmanth A,Absent,,CC,2023-10-11,1:00 PM
+Hithesh K,Present,Happiness,CC,2023-10-11,1:00 PM
+Pratham K Gujjar,Absent,Sadness,CC,2023-10-11,1:00 PM
+Shabarish B L,Absent,Happiness,CC,2023-10-11,1:00 PM
+Deshmanth A,Present,Angry,SNA,2023-10-12,10:00 AM
+Hithesh K,Absent,,SNA,2023-10-12,10:00 AM
+Pratham K Gujjar,Absent,Sadness,SNA,2023-10-12,10:00 AM
+Shabarish B L,Present,Happiness,SNA,2023-10-12,10:00 AM
+Deshmanth A,Absent,,AAI,2023-10-12,11:00 AM
+Hithesh K,Absent,,AAI,2023-10-12,11:00 AM
+Pratham K Gujjar,Present,Happiness,AAI,2023-10-12,11:00 AM
+Shabarish B L,Absent,,AAI,2023-10-12,11:00 AM
+Deshmanth A,Absent,Angry,CC,2023-10-12,12:00 PM
+Hithesh K,Present,,CC,2023-10-12,12:00 PM
+Pratham K Gujjar,Present,Sadness,CC,2023-10-12,12:00 PM
+Shabarish B L,Present,Neutral,CC,2023-10-12,12:00 PM
+Deshmanth A,Absent,,SNA,2023-10-12,1:00 PM
+Hithesh K,Absent,,SNA,2023-10-12,1:00 PM
+Pratham K Gujjar,Present,Neutral,SNA,2023-10-12,1:00 PM
+Shabarish B L,Absent,,SNA,2023-10-12,1:00 PM
+Deshmanth A,Present,,AAI,2023-10-13,10:00 AM
+Hithesh K,Present,Sadness,AAI,2023-10-13,10:00 AM
+Pratham K Gujjar,Absent,Sadness,AAI,2023-10-13,10:00 AM
+Shabarish B L,Absent,Sadness,AAI,2023-10-13,10:00 AM
+Deshmanth A,Absent,Angry,CC,2023-10-13,11:00 AM
+Hithesh K,Absent,Happiness,CC,2023-10-13,11:00 AM
+Pratham K Gujjar,Present,,CC,2023-10-13,11:00 AM
+Shabarish B L,Present,Neutral,CC,2023-10-13,11:00 AM
+Deshmanth A,Absent,,SNA,2023-10-13,12:00 PM
+Hithesh K,Absent,Angry,SNA,2023-10-13,12:00 PM
+Pratham K Gujjar,Absent,,SNA,2023-10-13,12:00 PM
+Shabarish B L,Present,Angry,SNA,2023-10-13,12:00 PM
+Deshmanth A,Present,,AAI,2023-10-13,1:00 PM
+Hithesh K,Absent,,AAI,2023-10-13,1:00 PM
+Pratham K Gujjar,Present,Sadness,AAI,2023-10-13,1:00 PM
+Shabarish B L,Present,,AAI,2023-10-13,1:00 PM
+Deshmanth A,Present,,CC,2023-10-14,10:00 AM
+Hithesh K,Present,Neutral,CC,2023-10-14,10:00 AM
+Pratham K Gujjar,Absent,Happiness,CC,2023-10-14,10:00 AM
+Shabarish B L,Present,,CC,2023-10-14,10:00 AM
+Deshmanth A,Absent,Happiness,SNA,2023-10-14,11:00 AM
+Hithesh K,Absent,,SNA,2023-10-14,11:00 AM
+Pratham K Gujjar,Absent,Happiness,SNA,2023-10-14,11:00 AM
+Shabarish B L,Present,Happiness,SNA,2023-10-14,11:00 AM
+Deshmanth A,Absent,,AAI,2023-10-14,12:00 PM
+Hithesh K,Present,,AAI,2023-10-14,12:00 PM
+Pratham K Gujjar,Absent,Happiness,AAI,2023-10-14,12:00 PM
+Shabarish B L,Present,,AAI,2023-10-14,12:00 PM
+Deshmanth A,Absent,Sadness,CC,2023-10-14,1:00 PM
+Hithesh K,Absent,,CC,2023-10-14,1:00 PM
+Pratham K Gujjar,Present,Angry,CC,2023-10-14,1:00 PM
+Shabarish B L,Present,,CC,2023-10-14,1:00 PM
+Deshmanth A,Absent,Neutral,SNA,2023-10-15,10:00 AM
+Hithesh K,Present,Neutral,SNA,2023-10-15,10:00 AM
+Pratham K Gujjar,Present,Angry,SNA,2023-10-15,10:00 AM
+Shabarish B L,Absent,,SNA,2023-10-15,10:00 AM
+Deshmanth A,Present,,AAI,2023-10-15,11:00 AM
+Hithesh K,Absent,,AAI,2023-10-15,11:00 AM
+Pratham K Gujjar,Absent,Neutral,AAI,2023-10-15,11:00 AM
+Shabarish B L,Absent,,AAI,2023-10-15,11:00 AM
+Deshmanth A,Absent,,CC,2023-10-15,12:00 PM
+Hithesh K,Absent,Sadness,CC,2023-10-15,12:00 PM
+Pratham K Gujjar,Present,,CC,2023-10-15,12:00 PM
+Shabarish B L,Absent,Neutral,CC,2023-10-15,12:00 PM
+Deshmanth A,Present,,SNA,2023-10-15,1:00 PM
+Hithesh K,Present,Angry,SNA,2023-10-15,1:00 PM
+Pratham K Gujjar,Absent,,SNA,2023-10-15,1:00 PM
+Shabarish B L,Present,Happiness,SNA,2023-10-15,1:00 PM
+Deshmanth A,Present,Sadness,AAI,2023-10-16,10:00 AM
+Hithesh K,Absent,Happiness,AAI,2023-10-16,10:00 AM
+Pratham K Gujjar,Absent,,AAI,2023-10-16,10:00 AM
+Shabarish B L,Present,Sadness,AAI,2023-10-16,10:00 AM
+Deshmanth A,Absent,Angry,CC,2023-10-16,11:00 AM
+Hithesh K,Present,Angry,CC,2023-10-16,11:00 AM
+Pratham K Gujjar,Absent,Angry,CC,2023-10-16,11:00 AM
+Shabarish B L,Present,Sadness,CC,2023-10-16,11:00 AM
+Deshmanth A,Absent,,SNA,2023-10-16,12:00 PM
+Hithesh K,Absent,,SNA,2023-10-16,12:00 PM
+Pratham K Gujjar,Present,,SNA,2023-10-16,12:00 PM
+Shabarish B L,Present,Happiness,SNA,2023-10-16,12:00 PM
+Deshmanth A,Absent,,AAI,2023-10-16,1:00 PM
+Hithesh K,Absent,Neutral,AAI,2023-10-16,1:00 PM
+Pratham K Gujjar,Present,Neutral,AAI,2023-10-16,1:00 PM
+Shabarish B L,Absent,Neutral,AAI,2023-10-16,1:00 PM
+Deshmanth A,Absent,,CC,2023-10-17,10:00 AM
+Hithesh K,Absent,,CC,2023-10-17,10:00 AM
+Pratham K Gujjar,Present,Angry,CC,2023-10-17,10:00 AM
+Shabarish B L,Absent,,CC,2023-10-17,10:00 AM
+Deshmanth A,Present,,SNA,2023-10-17,11:00 AM
+Hithesh K,Present,Neutral,SNA,2023-10-17,11:00 AM
+Pratham K Gujjar,Present,Sadness,SNA,2023-10-17,11:00 AM
+Shabarish B L,Absent,,SNA,2023-10-17,11:00 AM
+Deshmanth A,Absent,,AAI,2023-10-17,12:00 PM
+Hithesh K,Absent,,AAI,2023-10-17,12:00 PM
+Pratham K Gujjar,Absent,Angry,AAI,2023-10-17,12:00 PM
+Shabarish B L,Absent,,AAI,2023-10-17,12:00 PM
+Deshmanth A,Absent,Sadness,CC,2023-10-17,1:00 PM
+Hithesh K,Absent,Neutral,CC,2023-10-17,1:00 PM
+Pratham K Gujjar,Absent,Angry,CC,2023-10-17,1:00 PM
+Shabarish B L,Absent,,CC,2023-10-17,1:00 PM
+Deshmanth A,Absent,,SNA,2023-10-18,10:00 AM
+Hithesh K,Absent,,SNA,2023-10-18,10:00 AM
+Pratham K Gujjar,Absent,,SNA,2023-10-18,10:00 AM
+Shabarish B L,Absent,,SNA,2023-10-18,10:00 AM
+Deshmanth A,Absent,Sadness,AAI,2023-10-18,11:00 AM
+Hithesh K,Absent,Neutral,AAI,2023-10-18,11:00 AM
+Pratham K Gujjar,Absent,Neutral,AAI,2023-10-18,11:00 AM
+Shabarish B L,Present,Happiness,AAI,2023-10-18,11:00 AM
+Deshmanth A,Present,Neutral,CC,2023-10-18,12:00 PM
+Hithesh K,Present,,CC,2023-10-18,12:00 PM
+Pratham K Gujjar,Absent,Neutral,CC,2023-10-18,12:00 PM
+Shabarish B L,Absent,,CC,2023-10-18,12:00 PM
+Deshmanth A,Present,,SNA,2023-10-18,1:00 PM
+Hithesh K,Present,,SNA,2023-10-18,1:00 PM
+Pratham K Gujjar,Absent,Angry,SNA,2023-10-18,1:00 PM
+Shabarish B L,Present,,SNA,2023-10-18,1:00 PM
+Deshmanth A,Present,,AAI,2023-10-19,10:00 AM
+Hithesh K,Absent,,AAI,2023-10-19,10:00 AM
+Pratham K Gujjar,Present,Sadness,AAI,2023-10-19,10:00 AM
+Shabarish B L,Present,,AAI,2023-10-19,10:00 AM
+Deshmanth A,Present,,CC,2023-10-19,11:00 AM
+Hithesh K,Absent,,CC,2023-10-19,11:00 AM
+Pratham K Gujjar,Absent,,CC,2023-10-19,11:00 AM
+Shabarish B L,Absent,Neutral,CC,2023-10-19,11:00 AM
+Deshmanth A,Absent,Angry,SNA,2023-10-19,12:00 PM
+Hithesh K,Absent,,SNA,2023-10-19,12:00 PM
+Pratham K Gujjar,Absent,,SNA,2023-10-19,12:00 PM
+Shabarish B L,Present,,SNA,2023-10-19,12:00 PM
+Deshmanth A,Absent,Sadness,AAI,2023-10-19,1:00 PM
+Hithesh K,Absent,Sadness,AAI,2023-10-19,1:00 PM
+Pratham K Gujjar,Absent,,AAI,2023-10-19,1:00 PM
+Shabarish B L,Present,Happiness,AAI,2023-10-19,1:00 PM
+Deshmanth A,Absent,Happiness,CC,2023-10-20,10:00 AM
+Hithesh K,Absent,,CC,2023-10-20,10:00 AM
+Pratham K Gujjar,Present,Neutral,CC,2023-10-20,10:00 AM
+Shabarish B L,Present,Sadness,CC,2023-10-20,10:00 AM
+Deshmanth A,Present,,SNA,2023-10-20,11:00 AM
+Hithesh K,Absent,Angry,SNA,2023-10-20,11:00 AM
+Pratham K Gujjar,Absent,,SNA,2023-10-20,11:00 AM
+Shabarish B L,Absent,Angry,SNA,2023-10-20,11:00 AM
+Deshmanth A,Absent,,AAI,2023-10-20,12:00 PM
+Hithesh K,Absent,,AAI,2023-10-20,12:00 PM
+Pratham K Gujjar,Absent,,AAI,2023-10-20,12:00 PM
+Shabarish B L,Present,,AAI,2023-10-20,12:00 PM
+Deshmanth A,Absent,Angry,CC,2023-10-20,1:00 PM
+Hithesh K,Absent,Angry,CC,2023-10-20,1:00 PM
+Pratham K Gujjar,Present,Happiness,CC,2023-10-20,1:00 PM
+Shabarish B L,Present,,CC,2023-10-20,1:00 PM
+Deshmanth A,Absent,,SNA,2023-10-21,10:00 AM
+Hithesh K,Absent,Angry,SNA,2023-10-21,10:00 AM
+Pratham K Gujjar,Absent,Happiness,SNA,2023-10-21,10:00 AM
+Shabarish B L,Present,,SNA,2023-10-21,10:00 AM
+Deshmanth A,Present,Sadness,AAI,2023-10-21,11:00 AM
+Hithesh K,Present,Sadness,AAI,2023-10-21,11:00 AM
+Pratham K Gujjar,Present,,AAI,2023-10-21,11:00 AM
+Shabarish B L,Present,,AAI,2023-10-21,11:00 AM
+Deshmanth A,Present,Angry,CC,2023-10-21,12:00 PM
+Hithesh K,Absent,Neutral,CC,2023-10-21,12:00 PM
+Pratham K Gujjar,Present,Neutral,CC,2023-10-21,12:00 PM
+Shabarish B L,Present,,CC,2023-10-21,12:00 PM
+Deshmanth A,Present,Angry,SNA,2023-10-21,1:00 PM
+Hithesh K,Absent,Sadness,SNA,2023-10-21,1:00 PM
+Pratham K Gujjar,Present,Angry,SNA,2023-10-21,1:00 PM
+Shabarish B L,Absent,,SNA,2023-10-21,1:00 PM
+Deshmanth A,Present,Angry,AAI,2023-10-22,10:00 AM
+Hithesh K,Present,,AAI,2023-10-22,10:00 AM
+Pratham K Gujjar,Present,,AAI,2023-10-22,10:00 AM
+Shabarish B L,Present,Angry,AAI,2023-10-22,10:00 AM
+Deshmanth A,Present,,CC,2023-10-22,11:00 AM
+Hithesh K,Present,Sadness,CC,2023-10-22,11:00 AM
+Pratham K Gujjar,Present,Angry,CC,2023-10-22,11:00 AM
+Shabarish B L,Present,,CC,2023-10-22,11:00 AM
+Deshmanth A,Absent,Happiness,SNA,2023-10-22,12:00 PM
+Hithesh K,Present,,SNA,2023-10-22,12:00 PM
+Pratham K Gujjar,Absent,,SNA,2023-10-22,12:00 PM
+Shabarish B L,Absent,,SNA,2023-10-22,12:00 PM
+Deshmanth A,Present,Angry,AAI,2023-10-22,1:00 PM
+Hithesh K,Absent,Sadness,AAI,2023-10-22,1:00 PM
+Pratham K Gujjar,Absent,,AAI,2023-10-22,1:00 PM
+Shabarish B L,Present,Happiness,AAI,2023-10-22,1:00 PM
+Deshmanth A,Present,,CC,2023-10-23,10:00 AM
+Hithesh K,Absent,Neutral,CC,2023-10-23,10:00 AM
+Pratham K Gujjar,Present,,CC,2023-10-23,10:00 AM
+Shabarish B L,Absent,Neutral,CC,2023-10-23,10:00 AM
+Deshmanth A,Present,,SNA,2023-10-23,11:00 AM
+Hithesh K,Absent,,SNA,2023-10-23,11:00 AM
+Pratham K Gujjar,Present,,SNA,2023-10-23,11:00 AM
+Shabarish B L,Absent,,SNA,2023-10-23,11:00 AM
+Deshmanth A,Present,,AAI,2023-10-23,12:00 PM
+Hithesh K,Present,,AAI,2023-10-23,12:00 PM
+Pratham K Gujjar,Present,Neutral,AAI,2023-10-23,12:00 PM
+Shabarish B L,Present,Angry,AAI,2023-10-23,12:00 PM
+Deshmanth A,Present,Sadness,CC,2023-10-23,1:00 PM
+Hithesh K,Absent,Angry,CC,2023-10-23,1:00 PM
+Pratham K Gujjar,Present,,CC,2023-10-23,1:00 PM
+Shabarish B L,Present,,CC,2023-10-23,1:00 PM
+Deshmanth A,Present,,SNA,2023-10-24,10:00 AM
+Hithesh K,Absent,Sadness,SNA,2023-10-24,10:00 AM
+Pratham K Gujjar,Absent,,SNA,2023-10-24,10:00 AM
+Shabarish B L,Absent,,SNA,2023-10-24,10:00 AM
+Deshmanth A,Present,,AAI,2023-10-24,11:00 AM
+Hithesh K,Present,Sadness,AAI,2023-10-24,11:00 AM
+Pratham K Gujjar,Absent,Angry,AAI,2023-10-24,11:00 AM
+Shabarish B L,Absent,,AAI,2023-10-24,11:00 AM
+Deshmanth A,Absent,,CC,2023-10-24,12:00 PM
+Hithesh K,Present,,CC,2023-10-24,12:00 PM
+Pratham K Gujjar,Absent,Happiness,CC,2023-10-24,12:00 PM
+Shabarish B L,Present,,CC,2023-10-24,12:00 PM
+Deshmanth A,Present,,SNA,2023-10-24,1:00 PM
+Hithesh K,Absent,Sadness,SNA,2023-10-24,1:00 PM
+Pratham K Gujjar,Absent,,SNA,2023-10-24,1:00 PM
+Shabarish B L,Present,Neutral,SNA,2023-10-24,1:00 PM
+Deshmanth A,Absent,,AAI,2023-10-25,10:00 AM
+Hithesh K,Absent,Neutral,AAI,2023-10-25,10:00 AM
+Pratham K Gujjar,Absent,,AAI,2023-10-25,10:00 AM
+Shabarish B L,Absent,,AAI,2023-10-25,10:00 AM
+Deshmanth A,Present,,CC,2023-10-25,11:00 AM
+Hithesh K,Present,,CC,2023-10-25,11:00 AM
+Pratham K Gujjar,Absent,Neutral,CC,2023-10-25,11:00 AM
+Shabarish B L,Present,,CC,2023-10-25,11:00 AM
+Deshmanth A,Absent,Angry,SNA,2023-10-25,12:00 PM
+Hithesh K,Present,,SNA,2023-10-25,12:00 PM
+Pratham K Gujjar,Absent,Happiness,SNA,2023-10-25,12:00 PM
+Shabarish B L,Absent,Angry,SNA,2023-10-25,12:00 PM
+Deshmanth A,Absent,,AAI,2023-10-25,1:00 PM
+Hithesh K,Present,,AAI,2023-10-25,1:00 PM
+Pratham K Gujjar,Present,Neutral,AAI,2023-10-25,1:00 PM
+Shabarish B L,Absent,,AAI,2023-10-25,1:00 PM
+Deshmanth A,Absent,,CC,2023-10-26,10:00 AM
+Hithesh K,Present,Angry,CC,2023-10-26,10:00 AM
+Pratham K Gujjar,Present,Neutral,CC,2023-10-26,10:00 AM
+Shabarish B L,Present,,CC,2023-10-26,10:00 AM
+Deshmanth A,Absent,,SNA,2023-10-26,11:00 AM
+Hithesh K,Present,,SNA,2023-10-26,11:00 AM
+Pratham K Gujjar,Present,,SNA,2023-10-26,11:00 AM
+Shabarish B L,Present,Angry,SNA,2023-10-26,11:00 AM
+Deshmanth A,Present,,AAI,2023-10-26,12:00 PM
+Hithesh K,Absent,Neutral,AAI,2023-10-26,12:00 PM
+Pratham K Gujjar,Present,,AAI,2023-10-26,12:00 PM
+Shabarish B L,Absent,,AAI,2023-10-26,12:00 PM
+Deshmanth A,Absent,,CC,2023-10-26,1:00 PM
+Hithesh K,Present,,CC,2023-10-26,1:00 PM
+Pratham K Gujjar,Present,,CC,2023-10-26,1:00 PM
+Shabarish B L,Present,Sadness,CC,2023-10-26,1:00 PM
+Deshmanth A,Absent,,SNA,2023-10-27,10:00 AM
+Hithesh K,Present,,SNA,2023-10-27,10:00 AM
+Pratham K Gujjar,Present,,SNA,2023-10-27,10:00 AM
+Shabarish B L,Absent,Angry,SNA,2023-10-27,10:00 AM
+Deshmanth A,Absent,Happiness,AAI,2023-10-27,11:00 AM
+Hithesh K,Present,,AAI,2023-10-27,11:00 AM
+Pratham K Gujjar,Absent,Sadness,AAI,2023-10-27,11:00 AM
+Shabarish B L,Present,,AAI,2023-10-27,11:00 AM
+Deshmanth A,Present,,CC,2023-10-27,12:00 PM
+Hithesh K,Present,,CC,2023-10-27,12:00 PM
+Pratham K Gujjar,Present,Angry,CC,2023-10-27,12:00 PM
+Shabarish B L,Present,Sadness,CC,2023-10-27,12:00 PM
+Deshmanth A,Absent,,SNA,2023-10-27,1:00 PM
+Hithesh K,Present,,SNA,2023-10-27,1:00 PM
+Pratham K Gujjar,Absent,,SNA,2023-10-27,1:00 PM
+Shabarish B L,Absent,,SNA,2023-10-27,1:00 PM
+Deshmanth A,Present,,AAI,2023-10-28,10:00 AM
+Hithesh K,Present,,AAI,2023-10-28,10:00 AM
+Pratham K Gujjar,Present,Happiness,AAI,2023-10-28,10:00 AM
+Shabarish B L,Absent,Sadness,AAI,2023-10-28,10:00 AM
+Deshmanth A,Absent,,CC,2023-10-28,11:00 AM
+Hithesh K,Present,Angry,CC,2023-10-28,11:00 AM
+Pratham K Gujjar,Present,Angry,CC,2023-10-28,11:00 AM
+Shabarish B L,Absent,,CC,2023-10-28,11:00 AM
+Deshmanth A,Present,,SNA,2023-10-28,12:00 PM
+Hithesh K,Absent,,SNA,2023-10-28,12:00 PM
+Pratham K Gujjar,Absent,Happiness,SNA,2023-10-28,12:00 PM
+Shabarish B L,Present,Happiness,SNA,2023-10-28,12:00 PM
+Deshmanth A,Absent,Happiness,AAI,2023-10-28,1:00 PM
+Hithesh K,Absent,Neutral,AAI,2023-10-28,1:00 PM
+Pratham K Gujjar,Present,Happiness,AAI,2023-10-28,1:00 PM
+Shabarish B L,Absent,Happiness,AAI,2023-10-28,1:00 PM
+Deshmanth A,Absent,,CC,2023-10-29,10:00 AM
+Hithesh K,Present,Neutral,CC,2023-10-29,10:00 AM
+Pratham K Gujjar,Present,,CC,2023-10-29,10:00 AM
+Shabarish B L,Present,Angry,CC,2023-10-29,10:00 AM
+Deshmanth A,Absent,Happiness,SNA,2023-10-29,11:00 AM
+Hithesh K,Absent,,SNA,2023-10-29,11:00 AM
+Pratham K Gujjar,Present,Happiness,SNA,2023-10-29,11:00 AM
+Shabarish B L,Absent,,SNA,2023-10-29,11:00 AM
+Deshmanth A,Absent,Angry,AAI,2023-10-29,12:00 PM
+Hithesh K,Present,Angry,AAI,2023-10-29,12:00 PM
+Pratham K Gujjar,Absent,,AAI,2023-10-29,12:00 PM
+Shabarish B L,Present,,AAI,2023-10-29,12:00 PM
+Deshmanth A,Present,,CC,2023-10-29,1:00 PM
+Hithesh K,Absent,,CC,2023-10-29,1:00 PM
+Pratham K Gujjar,Absent,Sadness,CC,2023-10-29,1:00 PM
+Shabarish B L,Present,Sadness,CC,2023-10-29,1:00 PM
+Deshmanth A,Present,,SNA,2023-10-30,10:00 AM
+Hithesh K,Absent,,SNA,2023-10-30,10:00 AM
+Pratham K Gujjar,Absent,,SNA,2023-10-30,10:00 AM
+Shabarish B L,Present,Happiness,SNA,2023-10-30,10:00 AM
+Deshmanth A,Absent,Neutral,AAI,2023-10-30,11:00 AM
+Hithesh K,Absent,,AAI,2023-10-30,11:00 AM
+Pratham K Gujjar,Absent,,AAI,2023-10-30,11:00 AM
+Shabarish B L,Absent,Sadness,AAI,2023-10-30,11:00 AM
+Deshmanth A,Present,,CC,2023-10-30,12:00 PM
+Hithesh K,Absent,Sadness,CC,2023-10-30,12:00 PM
+Pratham K Gujjar,Present,Sadness,CC,2023-10-30,12:00 PM
+Shabarish B L,Present,,CC,2023-10-30,12:00 PM
+Deshmanth A,Present,,SNA,2023-10-30,1:00 PM
+Hithesh K,Absent,Angry,SNA,2023-10-30,1:00 PM
+Pratham K Gujjar,Present,Sadness,SNA,2023-10-30,1:00 PM
+Shabarish B L,Absent,Happiness,SNA,2023-10-30,1:00 PM
+Deshmanth A,Present,,AAI,2023-10-31,10:00 AM
+Hithesh K,Absent,Happiness,AAI,2023-10-31,10:00 AM
+Pratham K Gujjar,Present,,AAI,2023-10-31,10:00 AM
+Shabarish B L,Present,,AAI,2023-10-31,10:00 AM
+Deshmanth A,Absent,,CC,2023-10-31,11:00 AM
+Hithesh K,Absent,Happiness,CC,2023-10-31,11:00 AM
+Pratham K Gujjar,Absent,,CC,2023-10-31,11:00 AM
+Shabarish B L,Present,Happiness,CC,2023-10-31,11:00 AM
+Deshmanth A,Present,,SNA,2023-10-31,12:00 PM
+Hithesh K,Absent,,SNA,2023-10-31,12:00 PM
+Pratham K Gujjar,Present,Angry,SNA,2023-10-31,12:00 PM
+Shabarish B L,Present,,SNA,2023-10-31,12:00 PM
+Deshmanth A,Present,Sadness,AAI,2023-10-31,1:00 PM
+Hithesh K,Present,Angry,AAI,2023-10-31,1:00 PM
+Pratham K Gujjar,Absent,Angry,AAI,2023-10-31,1:00 PM
+Shabarish B L,Absent,,AAI,2023-10-31,1:00 PM
+Deshmanth A,Absent,,CC,2023-11-01,10:00 AM
+Hithesh K,Present,,CC,2023-11-01,10:00 AM
+Pratham K Gujjar,Present,,CC,2023-11-01,10:00 AM
+Shabarish B L,Present,Neutral,CC,2023-11-01,10:00 AM
+Deshmanth A,Absent,,SNA,2023-11-01,11:00 AM
+Hithesh K,Absent,Angry,SNA,2023-11-01,11:00 AM
+Pratham K Gujjar,Present,,SNA,2023-11-01,11:00 AM
+Shabarish B L,Present,,SNA,2023-11-01,11:00 AM
+Deshmanth A,Absent,,AAI,2023-11-01,12:00 PM
+Hithesh K,Present,Angry,AAI,2023-11-01,12:00 PM
+Pratham K Gujjar,Absent,Neutral,AAI,2023-11-01,12:00 PM
+Shabarish B L,Absent,,AAI,2023-11-01,12:00 PM
+Deshmanth A,Present,Neutral,CC,2023-11-01,1:00 PM
+Hithesh K,Present,,CC,2023-11-01,1:00 PM
+Pratham K Gujjar,Absent,Neutral,CC,2023-11-01,1:00 PM
+Shabarish B L,Absent,Sadness,CC,2023-11-01,1:00 PM
+Deshmanth A,Absent,,SNA,2023-11-02,10:00 AM
+Hithesh K,Absent,,SNA,2023-11-02,10:00 AM
+Pratham K Gujjar,Present,,SNA,2023-11-02,10:00 AM
+Shabarish B L,Present,,SNA,2023-11-02,10:00 AM
+Deshmanth A,Absent,,AAI,2023-11-02,11:00 AM
+Hithesh K,Absent,Happiness,AAI,2023-11-02,11:00 AM
+Pratham K Gujjar,Absent,Happiness,AAI,2023-11-02,11:00 AM
+Shabarish B L,Present,Neutral,AAI,2023-11-02,11:00 AM
+Deshmanth A,Absent,Sadness,CC,2023-11-02,12:00 PM
+Hithesh K,Absent,Happiness,CC,2023-11-02,12:00 PM
+Pratham K Gujjar,Present,Happiness,CC,2023-11-02,12:00 PM
+Shabarish B L,Present,,CC,2023-11-02,12:00 PM
+Deshmanth A,Absent,Angry,SNA,2023-11-02,1:00 PM
+Hithesh K,Absent,Neutral,SNA,2023-11-02,1:00 PM
+Pratham K Gujjar,Absent,Angry,SNA,2023-11-02,1:00 PM
+Shabarish B L,Present,Neutral,SNA,2023-11-02,1:00 PM
+Deshmanth A,Present,Happiness,AAI,2023-11-03,10:00 AM
+Hithesh K,Present,,AAI,2023-11-03,10:00 AM
+Pratham K Gujjar,Absent,Angry,AAI,2023-11-03,10:00 AM
+Shabarish B L,Present,Neutral,AAI,2023-11-03,10:00 AM
+Deshmanth A,Absent,,CC,2023-11-03,11:00 AM
+Hithesh K,Absent,,CC,2023-11-03,11:00 AM
+Pratham K Gujjar,Present,Happiness,CC,2023-11-03,11:00 AM
+Shabarish B L,Absent,,CC,2023-11-03,11:00 AM
+Deshmanth A,Present,,SNA,2023-11-03,12:00 PM
+Hithesh K,Absent,Happiness,SNA,2023-11-03,12:00 PM
+Pratham K Gujjar,Present,Angry,SNA,2023-11-03,12:00 PM
+Shabarish B L,Absent,,SNA,2023-11-03,12:00 PM
+Deshmanth A,Present,,AAI,2023-11-03,1:00 PM
+Hithesh K,Present,,AAI,2023-11-03,1:00 PM
+Pratham K Gujjar,Absent,,AAI,2023-11-03,1:00 PM
+Shabarish B L,Absent,,AAI,2023-11-03,1:00 PM
+Deshmanth A,Present,,CC,2023-11-04,10:00 AM
+Hithesh K,Absent,Sadness,CC,2023-11-04,10:00 AM
+Pratham K Gujjar,Absent,Neutral,CC,2023-11-04,10:00 AM
+Shabarish B L,Absent,Sadness,CC,2023-11-04,10:00 AM
+Deshmanth A,Absent,,SNA,2023-11-04,11:00 AM
+Hithesh K,Present,Angry,SNA,2023-11-04,11:00 AM
+Pratham K Gujjar,Absent,,SNA,2023-11-04,11:00 AM
+Shabarish B L,Absent,Sadness,SNA,2023-11-04,11:00 AM
+Deshmanth A,Present,Sadness,AAI,2023-11-04,12:00 PM
+Hithesh K,Present,Happiness,AAI,2023-11-04,12:00 PM
+Pratham K Gujjar,Absent,Happiness,AAI,2023-11-04,12:00 PM
+Shabarish B L,Present,,AAI,2023-11-04,12:00 PM
+Deshmanth A,Present,Angry,CC,2023-11-04,1:00 PM
+Hithesh K,Present,,CC,2023-11-04,1:00 PM
+Pratham K Gujjar,Present,Neutral,CC,2023-11-04,1:00 PM
+Shabarish B L,Absent,,CC,2023-11-04,1:00 PM
+Deshmanth A,Present,,SNA,2023-11-05,10:00 AM
+Hithesh K,Absent,Sadness,SNA,2023-11-05,10:00 AM
+Pratham K Gujjar,Absent,,SNA,2023-11-05,10:00 AM
+Shabarish B L,Present,,SNA,2023-11-05,10:00 AM
+Deshmanth A,Present,Happiness,AAI,2023-11-05,11:00 AM
+Hithesh K,Present,Angry,AAI,2023-11-05,11:00 AM
+Pratham K Gujjar,Absent,,AAI,2023-11-05,11:00 AM
+Shabarish B L,Absent,Happiness,AAI,2023-11-05,11:00 AM
+Deshmanth A,Present,Happiness,CC,2023-11-05,12:00 PM
+Hithesh K,Absent,,CC,2023-11-05,12:00 PM
+Pratham K Gujjar,Absent,Sadness,CC,2023-11-05,12:00 PM
+Shabarish B L,Absent,,CC,2023-11-05,12:00 PM
+Deshmanth A,Absent,,SNA,2023-11-05,1:00 PM
+Hithesh K,Present,,SNA,2023-11-05,1:00 PM
+Pratham K Gujjar,Present,,SNA,2023-11-05,1:00 PM
+Shabarish B L,Present,,SNA,2023-11-05,1:00 PM
+Deshmanth A,Present,Neutral,AAI,2023-11-06,10:00 AM
+Hithesh K,Absent,,AAI,2023-11-06,10:00 AM
+Pratham K Gujjar,Absent,Neutral,AAI,2023-11-06,10:00 AM
+Shabarish B L,Absent,Angry,AAI,2023-11-06,10:00 AM
+Deshmanth A,Present,Sadness,CC,2023-11-06,11:00 AM
+Hithesh K,Absent,,CC,2023-11-06,11:00 AM
+Pratham K Gujjar,Absent,,CC,2023-11-06,11:00 AM
+Shabarish B L,Present,,CC,2023-11-06,11:00 AM
+Deshmanth A,Present,,SNA,2023-11-06,12:00 PM
+Hithesh K,Present,Neutral,SNA,2023-11-06,12:00 PM
+Pratham K Gujjar,Present,Angry,SNA,2023-11-06,12:00 PM
+Shabarish B L,Absent,,SNA,2023-11-06,12:00 PM
+Deshmanth A,Present,Happiness,AAI,2023-11-06,1:00 PM
+Hithesh K,Absent,,AAI,2023-11-06,1:00 PM
+Pratham K Gujjar,Absent,Sadness,AAI,2023-11-06,1:00 PM
+Shabarish B L,Present,,AAI,2023-11-06,1:00 PM
+Deshmanth A,Absent,Happiness,CC,2023-11-07,10:00 AM
+Hithesh K,Absent,,CC,2023-11-07,10:00 AM
+Pratham K Gujjar,Present,,CC,2023-11-07,10:00 AM
+Shabarish B L,Present,,CC,2023-11-07,10:00 AM
+Deshmanth A,Present,,SNA,2023-11-07,11:00 AM
+Hithesh K,Absent,,SNA,2023-11-07,11:00 AM
+Pratham K Gujjar,Absent,,SNA,2023-11-07,11:00 AM
+Shabarish B L,Absent,Neutral,SNA,2023-11-07,11:00 AM
+Deshmanth A,Absent,Angry,AAI,2023-11-07,12:00 PM
+Hithesh K,Absent,Happiness,AAI,2023-11-07,12:00 PM
+Pratham K Gujjar,Present,,AAI,2023-11-07,12:00 PM
+Shabarish B L,Absent,,AAI,2023-11-07,12:00 PM
+Deshmanth A,Present,,CC,2023-11-07,1:00 PM
+Hithesh K,Present,,CC,2023-11-07,1:00 PM
+Pratham K Gujjar,Present,,CC,2023-11-07,1:00 PM
+Shabarish B L,Absent,Sadness,CC,2023-11-07,1:00 PM
+Deshmanth A,Absent,Angry,SNA,2023-11-08,10:00 AM
+Hithesh K,Absent,Sadness,SNA,2023-11-08,10:00 AM
+Pratham K Gujjar,Absent,Neutral,SNA,2023-11-08,10:00 AM
+Shabarish B L,Present,,SNA,2023-11-08,10:00 AM
+Deshmanth A,Absent,,AAI,2023-11-08,11:00 AM
+Hithesh K,Absent,,AAI,2023-11-08,11:00 AM
+Pratham K Gujjar,Present,,AAI,2023-11-08,11:00 AM
+Shabarish B L,Absent,,AAI,2023-11-08,11:00 AM
+Deshmanth A,Present,Angry,CC,2023-11-08,12:00 PM
+Hithesh K,Absent,,CC,2023-11-08,12:00 PM
+Pratham K Gujjar,Present,,CC,2023-11-08,12:00 PM
+Shabarish B L,Present,,CC,2023-11-08,12:00 PM
+Deshmanth A,Absent,,SNA,2023-11-08,1:00 PM
+Hithesh K,Present,,SNA,2023-11-08,1:00 PM
+Pratham K Gujjar,Absent,,SNA,2023-11-08,1:00 PM
+Shabarish B L,Present,,SNA,2023-11-08,1:00 PM
+Deshmanth A,Present,Neutral,AAI,2023-11-09,10:00 AM
+Hithesh K,Absent,Sadness,AAI,2023-11-09,10:00 AM
+Pratham K Gujjar,Present,Angry,AAI,2023-11-09,10:00 AM
+Shabarish B L,Absent,Angry,AAI,2023-11-09,10:00 AM
+Deshmanth A,Absent,Angry,CC,2023-11-09,11:00 AM
+Hithesh K,Present,Angry,CC,2023-11-09,11:00 AM
+Pratham K Gujjar,Absent,,CC,2023-11-09,11:00 AM
+Shabarish B L,Present,Happiness,CC,2023-11-09,11:00 AM
+Deshmanth A,Absent,Angry,SNA,2023-11-09,12:00 PM
+Hithesh K,Absent,Sadness,SNA,2023-11-09,12:00 PM
+Pratham K Gujjar,Absent,Angry,SNA,2023-11-09,12:00 PM
+Shabarish B L,Present,Sadness,SNA,2023-11-09,12:00 PM
+Deshmanth A,Present,,AAI,2023-11-09,1:00 PM
+Hithesh K,Absent,,AAI,2023-11-09,1:00 PM
+Pratham K Gujjar,Present,Angry,AAI,2023-11-09,1:00 PM
+Shabarish B L,Present,Neutral,AAI,2023-11-09,1:00 PM
+Deshmanth A,Absent,,CC,2023-11-10,10:00 AM
+Hithesh K,Absent,,CC,2023-11-10,10:00 AM
+Pratham K Gujjar,Present,,CC,2023-11-10,10:00 AM
+Shabarish B L,Present,Neutral,CC,2023-11-10,10:00 AM
+Deshmanth A,Absent,Angry,SNA,2023-11-10,11:00 AM
+Hithesh K,Absent,,SNA,2023-11-10,11:00 AM
+Pratham K Gujjar,Present,Angry,SNA,2023-11-10,11:00 AM
+Shabarish B L,Present,,SNA,2023-11-10,11:00 AM
+Deshmanth A,Absent,Neutral,AAI,2023-11-10,12:00 PM
+Hithesh K,Absent,,AAI,2023-11-10,12:00 PM
+Pratham K Gujjar,Present,Sadness,AAI,2023-11-10,12:00 PM
+Shabarish B L,Present,Angry,AAI,2023-11-10,12:00 PM
+Deshmanth A,Absent,Angry,CC,2023-11-10,1:00 PM
+Hithesh K,Present,,CC,2023-11-10,1:00 PM
+Pratham K Gujjar,Absent,Angry,CC,2023-11-10,1:00 PM
+Shabarish B L,Absent,Angry,CC,2023-11-10,1:00 PM
+Deshmanth A,Absent,,SNA,2023-11-11,10:00 AM
+Hithesh K,Present,Sadness,SNA,2023-11-11,10:00 AM
+Pratham K Gujjar,Absent,Neutral,SNA,2023-11-11,10:00 AM
+Shabarish B L,Absent,Happiness,SNA,2023-11-11,10:00 AM
+Deshmanth A,Absent,Sadness,AAI,2023-11-11,11:00 AM
+Hithesh K,Present,Sadness,AAI,2023-11-11,11:00 AM
+Pratham K Gujjar,Absent,Neutral,AAI,2023-11-11,11:00 AM
+Shabarish B L,Present,Sadness,AAI,2023-11-11,11:00 AM
+Deshmanth A,Absent,,CC,2023-11-11,12:00 PM
+Hithesh K,Present,,CC,2023-11-11,12:00 PM
+Pratham K Gujjar,Absent,,CC,2023-11-11,12:00 PM
+Shabarish B L,Present,,CC,2023-11-11,12:00 PM
+Deshmanth A,Absent,,SNA,2023-11-11,1:00 PM
+Hithesh K,Present,,SNA,2023-11-11,1:00 PM
+Pratham K Gujjar,Present,,SNA,2023-11-11,1:00 PM
+Shabarish B L,Present,,SNA,2023-11-11,1:00 PM
+Deshmanth A,Present,,AAI,2023-11-12,10:00 AM
+Hithesh K,Absent,,AAI,2023-11-12,10:00 AM
+Pratham K Gujjar,Present,,AAI,2023-11-12,10:00 AM
+Shabarish B L,Present,,AAI,2023-11-12,10:00 AM
+Deshmanth A,Absent,Sadness,CC,2023-11-12,11:00 AM
+Hithesh K,Absent,Angry,CC,2023-11-12,11:00 AM
+Pratham K Gujjar,Absent,Neutral,CC,2023-11-12,11:00 AM
+Shabarish B L,Present,Angry,CC,2023-11-12,11:00 AM
+Deshmanth A,Absent,,SNA,2023-11-12,12:00 PM
+Hithesh K,Present,Angry,SNA,2023-11-12,12:00 PM
+Pratham K Gujjar,Present,Neutral,SNA,2023-11-12,12:00 PM
+Shabarish B L,Absent,,SNA,2023-11-12,12:00 PM
+Deshmanth A,Absent,Sadness,AAI,2023-11-12,1:00 PM
+Hithesh K,Present,Happiness,AAI,2023-11-12,1:00 PM
+Pratham K Gujjar,Absent,,AAI,2023-11-12,1:00 PM
+Shabarish B L,Absent,,AAI,2023-11-12,1:00 PM
+Deshmanth A,Present,Angry,CC,2023-11-13,10:00 AM
+Hithesh K,Present,Happiness,CC,2023-11-13,10:00 AM
+Pratham K Gujjar,Absent,,CC,2023-11-13,10:00 AM
+Shabarish B L,Absent,,CC,2023-11-13,10:00 AM
+Deshmanth A,Absent,,SNA,2023-11-13,11:00 AM
+Hithesh K,Present,Sadness,SNA,2023-11-13,11:00 AM
+Pratham K Gujjar,Absent,,SNA,2023-11-13,11:00 AM
+Shabarish B L,Absent,,SNA,2023-11-13,11:00 AM
+Deshmanth A,Present,,AAI,2023-11-13,12:00 PM
+Hithesh K,Absent,,AAI,2023-11-13,12:00 PM
+Pratham K Gujjar,Present,,AAI,2023-11-13,12:00 PM
+Shabarish B L,Present,,AAI,2023-11-13,12:00 PM
+Deshmanth A,Present,,CC,2023-11-13,1:00 PM
+Hithesh K,Absent,,CC,2023-11-13,1:00 PM
+Pratham K Gujjar,Absent,,CC,2023-11-13,1:00 PM
+Shabarish B L,Absent,,CC,2023-11-13,1:00 PM
+Deshmanth A,Present,Sadness,SNA,2023-11-14,10:00 AM
+Hithesh K,Present,,SNA,2023-11-14,10:00 AM
+Pratham K Gujjar,Absent,,SNA,2023-11-14,10:00 AM
+Shabarish B L,Absent,,SNA,2023-11-14,10:00 AM
+Deshmanth A,Present,Neutral,AAI,2023-11-14,11:00 AM
+Hithesh K,Absent,Happiness,AAI,2023-11-14,11:00 AM
+Pratham K Gujjar,Absent,Sadness,AAI,2023-11-14,11:00 AM
+Shabarish B L,Absent,,AAI,2023-11-14,11:00 AM
+Deshmanth A,Present,,CC,2023-11-14,12:00 PM
+Hithesh K,Absent,,CC,2023-11-14,12:00 PM
+Pratham K Gujjar,Absent,,CC,2023-11-14,12:00 PM
+Shabarish B L,Absent,Neutral,CC,2023-11-14,12:00 PM
+Deshmanth A,Absent,,SNA,2023-11-14,1:00 PM
+Hithesh K,Absent,,SNA,2023-11-14,1:00 PM
+Pratham K Gujjar,Present,,SNA,2023-11-14,1:00 PM
+Shabarish B L,Present,Neutral,SNA,2023-11-14,1:00 PM
+Deshmanth A,Absent,Angry,AAI,2023-11-15,10:00 AM
+Hithesh K,Present,,AAI,2023-11-15,10:00 AM
+Pratham K Gujjar,Present,,AAI,2023-11-15,10:00 AM
+Shabarish B L,Present,Happiness,AAI,2023-11-15,10:00 AM
+Deshmanth A,Absent,Happiness,CC,2023-11-15,11:00 AM
+Hithesh K,Present,,CC,2023-11-15,11:00 AM
+Pratham K Gujjar,Present,,CC,2023-11-15,11:00 AM
+Shabarish B L,Present,Sadness,CC,2023-11-15,11:00 AM
+Deshmanth A,Present,,SNA,2023-11-15,12:00 PM
+Hithesh K,Absent,Happiness,SNA,2023-11-15,12:00 PM
+Pratham K Gujjar,Present,,SNA,2023-11-15,12:00 PM
+Shabarish B L,Present,Angry,SNA,2023-11-15,12:00 PM
+Deshmanth A,Absent,,AAI,2023-11-15,1:00 PM
+Hithesh K,Present,Sadness,AAI,2023-11-15,1:00 PM
+Pratham K Gujjar,Absent,,AAI,2023-11-15,1:00 PM
+Shabarish B L,Present,Angry,AAI,2023-11-15,1:00 PM
+Deshmanth A,Absent,,CC,2023-11-16,10:00 AM
+Hithesh K,Present,Angry,CC,2023-11-16,10:00 AM
+Pratham K Gujjar,Absent,,CC,2023-11-16,10:00 AM
+Shabarish B L,Absent,,CC,2023-11-16,10:00 AM
+Deshmanth A,Absent,,SNA,2023-11-16,11:00 AM
+Hithesh K,Absent,,SNA,2023-11-16,11:00 AM
+Pratham K Gujjar,Absent,,SNA,2023-11-16,11:00 AM
+Shabarish B L,Present,,SNA,2023-11-16,11:00 AM
+Deshmanth A,Present,Angry,AAI,2023-11-16,12:00 PM
+Hithesh K,Absent,,AAI,2023-11-16,12:00 PM
+Pratham K Gujjar,Absent,Neutral,AAI,2023-11-16,12:00 PM
+Shabarish B L,Present,,AAI,2023-11-16,12:00 PM
+Deshmanth A,Absent,Neutral,CC,2023-11-16,1:00 PM
+Hithesh K,Present,,CC,2023-11-16,1:00 PM
+Pratham K Gujjar,Present,Sadness,CC,2023-11-16,1:00 PM
+Shabarish B L,Present,,CC,2023-11-16,1:00 PM
+Deshmanth A,Absent,,SNA,2023-11-17,10:00 AM
+Hithesh K,Present,Neutral,SNA,2023-11-17,10:00 AM
+Pratham K Gujjar,Absent,,SNA,2023-11-17,10:00 AM
+Shabarish B L,Absent,Angry,SNA,2023-11-17,10:00 AM
+Deshmanth A,Absent,Happiness,AAI,2023-11-17,11:00 AM
+Hithesh K,Absent,,AAI,2023-11-17,11:00 AM
+Pratham K Gujjar,Absent,Angry,AAI,2023-11-17,11:00 AM
+Shabarish B L,Present,,AAI,2023-11-17,11:00 AM
+Deshmanth A,Absent,,CC,2023-11-17,12:00 PM
+Hithesh K,Absent,Neutral,CC,2023-11-17,12:00 PM
+Pratham K Gujjar,Absent,Angry,CC,2023-11-17,12:00 PM
+Shabarish B L,Absent,,CC,2023-11-17,12:00 PM
+Deshmanth A,Absent,,SNA,2023-11-17,1:00 PM
+Hithesh K,Present,,SNA,2023-11-17,1:00 PM
+Pratham K Gujjar,Absent,Neutral,SNA,2023-11-17,1:00 PM
+Shabarish B L,Absent,,SNA,2023-11-17,1:00 PM
+Deshmanth A,Present,Angry,AAI,2023-11-18,10:00 AM
+Hithesh K,Absent,,AAI,2023-11-18,10:00 AM
+Pratham K Gujjar,Present,,AAI,2023-11-18,10:00 AM
+Shabarish B L,Present,Angry,AAI,2023-11-18,10:00 AM
+Deshmanth A,Present,Sadness,CC,2023-11-18,11:00 AM
+Hithesh K,Present,,CC,2023-11-18,11:00 AM
+Pratham K Gujjar,Absent,,CC,2023-11-18,11:00 AM
+Shabarish B L,Present,Angry,CC,2023-11-18,11:00 AM
+Deshmanth A,Present,,SNA,2023-11-18,12:00 PM
+Hithesh K,Absent,,SNA,2023-11-18,12:00 PM
+Pratham K Gujjar,Present,Sadness,SNA,2023-11-18,12:00 PM
+Shabarish B L,Present,Angry,SNA,2023-11-18,12:00 PM
+Deshmanth A,Present,,AAI,2023-11-18,1:00 PM
+Hithesh K,Absent,,AAI,2023-11-18,1:00 PM
+Pratham K Gujjar,Absent,,AAI,2023-11-18,1:00 PM
+Shabarish B L,Absent,Angry,AAI,2023-11-18,1:00 PM
+Deshmanth A,Present,Sadness,CC,2023-11-19,10:00 AM
+Hithesh K,Present,,CC,2023-11-19,10:00 AM
+Pratham K Gujjar,Present,,CC,2023-11-19,10:00 AM
+Shabarish B L,Absent,,CC,2023-11-19,10:00 AM
+Deshmanth A,Absent,,SNA,2023-11-19,11:00 AM
+Hithesh K,Present,,SNA,2023-11-19,11:00 AM
+Pratham K Gujjar,Present,Sadness,SNA,2023-11-19,11:00 AM
+Shabarish B L,Present,,SNA,2023-11-19,11:00 AM
+Deshmanth A,Absent,,AAI,2023-11-19,12:00 PM
+Hithesh K,Absent,Sadness,AAI,2023-11-19,12:00 PM
+Pratham K Gujjar,Present,,AAI,2023-11-19,12:00 PM
+Shabarish B L,Absent,Angry,AAI,2023-11-19,12:00 PM
+Deshmanth A,Absent,,CC,2023-11-19,1:00 PM
+Hithesh K,Present,Happiness,CC,2023-11-19,1:00 PM
+Pratham K Gujjar,Present,,CC,2023-11-19,1:00 PM
+Shabarish B L,Absent,Sadness,CC,2023-11-19,1:00 PM
+Deshmanth A,Present,Angry,SNA,2023-11-20,10:00 AM
+Hithesh K,Present,,SNA,2023-11-20,10:00 AM
+Pratham K Gujjar,Present,,SNA,2023-11-20,10:00 AM
+Shabarish B L,Absent,,SNA,2023-11-20,10:00 AM
+Deshmanth A,Present,Happiness,AAI,2023-11-20,11:00 AM
+Hithesh K,Present,,AAI,2023-11-20,11:00 AM
+Pratham K Gujjar,Present,Sadness,AAI,2023-11-20,11:00 AM
+Shabarish B L,Present,Angry,AAI,2023-11-20,11:00 AM
+Deshmanth A,Absent,Neutral,CC,2023-11-20,12:00 PM
+Hithesh K,Absent,,CC,2023-11-20,12:00 PM
+Pratham K Gujjar,Absent,Sadness,CC,2023-11-20,12:00 PM
+Shabarish B L,Absent,,CC,2023-11-20,12:00 PM
+Deshmanth A,Present,Neutral,SNA,2023-11-20,1:00 PM
+Hithesh K,Absent,,SNA,2023-11-20,1:00 PM
+Pratham K Gujjar,Absent,,SNA,2023-11-20,1:00 PM
+Shabarish B L,Absent,Sadness,SNA,2023-11-20,1:00 PM
+Deshmanth A,Present,Neutral,AAI,2023-11-21,10:00 AM
+Hithesh K,Present,Happiness,AAI,2023-11-21,10:00 AM
+Pratham K Gujjar,Present,Sadness,AAI,2023-11-21,10:00 AM
+Shabarish B L,Absent,,AAI,2023-11-21,10:00 AM
+Deshmanth A,Present,Happiness,CC,2023-11-21,11:00 AM
+Hithesh K,Absent,Neutral,CC,2023-11-21,11:00 AM
+Pratham K Gujjar,Absent,,CC,2023-11-21,11:00 AM
+Shabarish B L,Present,Happiness,CC,2023-11-21,11:00 AM
+Deshmanth A,Present,,SNA,2023-11-21,12:00 PM
+Hithesh K,Present,Happiness,SNA,2023-11-21,12:00 PM
+Pratham K Gujjar,Present,,SNA,2023-11-21,12:00 PM
+Shabarish B L,Present,,SNA,2023-11-21,12:00 PM
+Deshmanth A,Present,Sadness,AAI,2023-11-21,1:00 PM
+Hithesh K,Absent,,AAI,2023-11-21,1:00 PM
+Pratham K Gujjar,Present,Happiness,AAI,2023-11-21,1:00 PM
+Shabarish B L,Present,,AAI,2023-11-21,1:00 PM
+Deshmanth A,Present,Sadness,CC,2023-11-22,10:00 AM
+Hithesh K,Present,,CC,2023-11-22,10:00 AM
+Pratham K Gujjar,Absent,Happiness,CC,2023-11-22,10:00 AM
+Shabarish B L,Present,,CC,2023-11-22,10:00 AM
+Deshmanth A,Absent,,SNA,2023-11-22,11:00 AM
+Hithesh K,Absent,Angry,SNA,2023-11-22,11:00 AM
+Pratham K Gujjar,Present,,SNA,2023-11-22,11:00 AM
+Shabarish B L,Present,Angry,SNA,2023-11-22,11:00 AM
+Deshmanth A,Absent,,AAI,2023-11-22,12:00 PM
+Hithesh K,Present,,AAI,2023-11-22,12:00 PM
+Pratham K Gujjar,Absent,,AAI,2023-11-22,12:00 PM
+Shabarish B L,Absent,Angry,AAI,2023-11-22,12:00 PM
+Deshmanth A,Present,Sadness,CC,2023-11-22,1:00 PM
+Hithesh K,Absent,Neutral,CC,2023-11-22,1:00 PM
+Pratham K Gujjar,Present,Happiness,CC,2023-11-22,1:00 PM
+Shabarish B L,Absent,,CC,2023-11-22,1:00 PM
+Deshmanth A,Present,,SNA,2023-11-23,10:00 AM
+Hithesh K,Absent,Happiness,SNA,2023-11-23,10:00 AM
+Pratham K Gujjar,Absent,Sadness,SNA,2023-11-23,10:00 AM
+Shabarish B L,Absent,,SNA,2023-11-23,10:00 AM
+Deshmanth A,Absent,Neutral,AAI,2023-11-23,11:00 AM
+Hithesh K,Present,Neutral,AAI,2023-11-23,11:00 AM
+Pratham K Gujjar,Present,Neutral,AAI,2023-11-23,11:00 AM
+Shabarish B L,Absent,,AAI,2023-11-23,11:00 AM
+Deshmanth A,Present,Angry,CC,2023-11-23,12:00 PM
+Hithesh K,Present,Sadness,CC,2023-11-23,12:00 PM
+Pratham K Gujjar,Absent,,CC,2023-11-23,12:00 PM
+Shabarish B L,Present,,CC,2023-11-23,12:00 PM
+Deshmanth A,Present,Angry,SNA,2023-11-23,1:00 PM
+Hithesh K,Present,Angry,SNA,2023-11-23,1:00 PM
+Pratham K Gujjar,Absent,Neutral,SNA,2023-11-23,1:00 PM
+Shabarish B L,Absent,Sadness,SNA,2023-11-23,1:00 PM
+Deshmanth A,Absent,,AAI,2023-11-24,10:00 AM
+Hithesh K,Absent,Angry,AAI,2023-11-24,10:00 AM
+Pratham K Gujjar,Absent,,AAI,2023-11-24,10:00 AM
+Shabarish B L,Absent,Angry,AAI,2023-11-24,10:00 AM
+Deshmanth A,Absent,,CC,2023-11-24,11:00 AM
+Hithesh K,Absent,Angry,CC,2023-11-24,11:00 AM
+Pratham K Gujjar,Present,,CC,2023-11-24,11:00 AM
+Shabarish B L,Absent,,CC,2023-11-24,11:00 AM
+Deshmanth A,Present,Angry,SNA,2023-11-24,12:00 PM
+Hithesh K,Present,,SNA,2023-11-24,12:00 PM
+Pratham K Gujjar,Present,,SNA,2023-11-24,12:00 PM
+Shabarish B L,Present,,SNA,2023-11-24,12:00 PM
+Deshmanth A,Absent,Happiness,AAI,2023-11-24,1:00 PM
+Hithesh K,Absent,Angry,AAI,2023-11-24,1:00 PM
+Pratham K Gujjar,Present,Sadness,AAI,2023-11-24,1:00 PM
+Shabarish B L,Absent,Sadness,AAI,2023-11-24,1:00 PM
+Deshmanth A,Absent,Angry,CC,2023-11-25,10:00 AM
+Hithesh K,Absent,,CC,2023-11-25,10:00 AM
+Pratham K Gujjar,Present,Happiness,CC,2023-11-25,10:00 AM
+Shabarish B L,Present,,CC,2023-11-25,10:00 AM
+Deshmanth A,Absent,Angry,SNA,2023-11-25,11:00 AM
+Hithesh K,Present,Happiness,SNA,2023-11-25,11:00 AM
+Pratham K Gujjar,Absent,,SNA,2023-11-25,11:00 AM
+Shabarish B L,Absent,,SNA,2023-11-25,11:00 AM
+Deshmanth A,Present,,AAI,2023-11-25,12:00 PM
+Hithesh K,Present,,AAI,2023-11-25,12:00 PM
+Pratham K Gujjar,Absent,Happiness,AAI,2023-11-25,12:00 PM
+Shabarish B L,Present,Angry,AAI,2023-11-25,12:00 PM
+Deshmanth A,Present,Angry,CC,2023-11-25,1:00 PM
+Hithesh K,Absent,Sadness,CC,2023-11-25,1:00 PM
+Pratham K Gujjar,Absent,Angry,CC,2023-11-25,1:00 PM
+Shabarish B L,Present,,CC,2023-11-25,1:00 PM
+Deshmanth A,Absent,,SNA,2023-11-26,10:00 AM
+Hithesh K,Absent,,SNA,2023-11-26,10:00 AM
+Pratham K Gujjar,Absent,,SNA,2023-11-26,10:00 AM
+Shabarish B L,Absent,Angry,SNA,2023-11-26,10:00 AM
+Deshmanth A,Absent,Happiness,AAI,2023-11-26,11:00 AM
+Hithesh K,Present,Happiness,AAI,2023-11-26,11:00 AM
+Pratham K Gujjar,Absent,,AAI,2023-11-26,11:00 AM
+Shabarish B L,Present,,AAI,2023-11-26,11:00 AM
+Deshmanth A,Absent,Happiness,CC,2023-11-26,12:00 PM
+Hithesh K,Absent,Angry,CC,2023-11-26,12:00 PM
+Pratham K Gujjar,Absent,Happiness,CC,2023-11-26,12:00 PM
+Shabarish B L,Present,,CC,2023-11-26,12:00 PM
+Deshmanth A,Absent,Happiness,SNA,2023-11-26,1:00 PM
+Hithesh K,Absent,Sadness,SNA,2023-11-26,1:00 PM
+Pratham K Gujjar,Absent,Angry,SNA,2023-11-26,1:00 PM
+Shabarish B L,Absent,Angry,SNA,2023-11-26,1:00 PM
+Deshmanth A,Present,,AAI,2023-11-27,10:00 AM
+Hithesh K,Present,,AAI,2023-11-27,10:00 AM
+Pratham K Gujjar,Present,,AAI,2023-11-27,10:00 AM
+Shabarish B L,Present,,AAI,2023-11-27,10:00 AM
+Deshmanth A,Absent,,CC,2023-11-27,11:00 AM
+Hithesh K,Absent,,CC,2023-11-27,11:00 AM
+Pratham K Gujjar,Present,,CC,2023-11-27,11:00 AM
+Shabarish B L,Absent,,CC,2023-11-27,11:00 AM
+Deshmanth A,Absent,,SNA,2023-11-27,12:00 PM
+Hithesh K,Absent,,SNA,2023-11-27,12:00 PM
+Pratham K Gujjar,Present,Neutral,SNA,2023-11-27,12:00 PM
+Shabarish B L,Absent,,SNA,2023-11-27,12:00 PM
+Deshmanth A,Absent,,AAI,2023-11-27,1:00 PM
+Hithesh K,Absent,,AAI,2023-11-27,1:00 PM
+Pratham K Gujjar,Present,Angry,AAI,2023-11-27,1:00 PM
+Shabarish B L,Present,Sadness,AAI,2023-11-27,1:00 PM
+Deshmanth A,Present,Angry,CC,2023-11-28,10:00 AM
+Hithesh K,Absent,Neutral,CC,2023-11-28,10:00 AM
+Pratham K Gujjar,Present,Neutral,CC,2023-11-28,10:00 AM
+Shabarish B L,Present,,CC,2023-11-28,10:00 AM
+Deshmanth A,Present,Sadness,SNA,2023-11-28,11:00 AM
+Hithesh K,Absent,,SNA,2023-11-28,11:00 AM
+Pratham K Gujjar,Present,Angry,SNA,2023-11-28,11:00 AM
+Shabarish B L,Present,,SNA,2023-11-28,11:00 AM
+Deshmanth A,Absent,Happiness,AAI,2023-11-28,12:00 PM
+Hithesh K,Absent,Happiness,AAI,2023-11-28,12:00 PM
+Pratham K Gujjar,Present,,AAI,2023-11-28,12:00 PM
+Shabarish B L,Absent,,AAI,2023-11-28,12:00 PM
+Deshmanth A,Present,Neutral,CC,2023-11-28,1:00 PM
+Hithesh K,Absent,,CC,2023-11-28,1:00 PM
+Pratham K Gujjar,Absent,Neutral,CC,2023-11-28,1:00 PM
+Shabarish B L,Absent,Sadness,CC,2023-11-28,1:00 PM
+Deshmanth A,Present,,SNA,2023-11-29,10:00 AM
+Hithesh K,Absent,Sadness,SNA,2023-11-29,10:00 AM
+Pratham K Gujjar,Present,,SNA,2023-11-29,10:00 AM
+Shabarish B L,Absent,Neutral,SNA,2023-11-29,10:00 AM
+Deshmanth A,Present,Angry,AAI,2023-11-29,11:00 AM
+Hithesh K,Absent,Sadness,AAI,2023-11-29,11:00 AM
+Pratham K Gujjar,Present,,AAI,2023-11-29,11:00 AM
+Shabarish B L,Absent,Happiness,AAI,2023-11-29,11:00 AM
+Deshmanth A,Absent,,CC,2023-11-29,12:00 PM
+Hithesh K,Present,,CC,2023-11-29,12:00 PM
+Pratham K Gujjar,Present,,CC,2023-11-29,12:00 PM
+Shabarish B L,Present,Angry,CC,2023-11-29,12:00 PM
+Deshmanth A,Absent,Sadness,SNA,2023-11-29,1:00 PM
+Hithesh K,Present,Angry,SNA,2023-11-29,1:00 PM
+Pratham K Gujjar,Absent,,SNA,2023-11-29,1:00 PM
+Shabarish B L,Absent,,SNA,2023-11-29,1:00 PM
+Deshmanth A,Absent,Sadness,AAI,2023-11-30,10:00 AM
+Hithesh K,Absent,Happiness,AAI,2023-11-30,10:00 AM
+Pratham K Gujjar,Present,Happiness,AAI,2023-11-30,10:00 AM
+Shabarish B L,Present,,AAI,2023-11-30,10:00 AM
+Deshmanth A,Absent,,CC,2023-11-30,11:00 AM
+Hithesh K,Absent,,CC,2023-11-30,11:00 AM
+Pratham K Gujjar,Present,Neutral,CC,2023-11-30,11:00 AM
+Shabarish B L,Present,,CC,2023-11-30,11:00 AM
+Deshmanth A,Absent,Angry,SNA,2023-11-30,12:00 PM
+Hithesh K,Present,Neutral,SNA,2023-11-30,12:00 PM
+Pratham K Gujjar,Absent,,SNA,2023-11-30,12:00 PM
+Shabarish B L,Present,Sadness,SNA,2023-11-30,12:00 PM
+Deshmanth A,Present,Sadness,AAI,2023-11-30,1:00 PM
+Hithesh K,Present,,AAI,2023-11-30,1:00 PM
+Pratham K Gujjar,Absent,,AAI,2023-11-30,1:00 PM
+Shabarish B L,Present,Sadness,AAI,2023-11-30,1:00 PM
+,,Happiness,CC,,
+,,,CC,,
+,,Sadness,CC,,
+,,,CC,,
+,,,SNA,,
+,,,SNA,,
+,,,SNA,,
+,,,SNA,,
+,,,AAI,,
+,,,AAI,,
+,,,AAI,,
+,,Angry,AAI,,
+,,,CC,,
+,,,CC,,
+,,Sadness,CC,,
+,,,CC,,
+,,,SNA,,
+,,,SNA,,
+,,,SNA,,
+,,Sadness,SNA,,
+,,,AAI,,
+,,,AAI,,
+,,Angry,AAI,,
+,,,AAI,,
+,,Angry,CC,,
+,,,CC,,
+,,,CC,,
+,,Neutral,CC,,
+,,Sadness,SNA,,
+,,,SNA,,
+,,,SNA,,
+,,,SNA,,
+,,Sadness,AAI,,
+,,Sadness,AAI,,
+,,,AAI,,
+,,Neutral,AAI,,
+,,,CC,,
+,,Angry,CC,,
+,,Sadness,CC,,
+,,,CC,,
+,,Happiness,SNA,,
+,,Sadness,SNA,,
+,,,SNA,,
+,,,SNA,,
+,,,AAI,,
+,,,AAI,,
+,,,AAI,,
+,,,AAI,,
+,,,CC,,
+,,,CC,,
+,,,CC,,
+,,,CC,,
+,,Sadness,SNA,,
+,,Sadness,SNA,,
+,,Neutral,SNA,,
+,,Sadness,SNA,,
+,,Happiness,AAI,,
+,,Sadness,AAI,,
+,,,AAI,,
+,,,AAI,,
+,,Angry,CC,,
+,,Angry,CC,,
+,,,CC,,
+,,Happiness,CC,,
+,,Happiness,SNA,,
+,,,SNA,,
+,,Sadness,SNA,,
+,,,SNA,,
+,,,AAI,,
+,,Sadness,AAI,,
+,,Neutral,AAI,,
+,,,AAI,,
+,,,CC,,
+,,Neutral,CC,,
+,,Happiness,CC,,
+,,,CC,,
+,,Sadness,SNA,,
+,,,SNA,,
+,,,SNA,,
+,,Sadness,SNA,,
+,,Happiness,AAI,,
+,,,AAI,,
+,,Neutral,AAI,,
+,,,AAI,,
+,,Sadness,CC,,
+,,,CC,,
+,,Neutral,CC,,
+,,,CC,,
+,,,SNA,,
+,,Angry,SNA,,
+,,,SNA,,
+,,,SNA,,
+,,,AAI,,
+,,Happiness,AAI,,
+,,Happiness,AAI,,
+,,,AAI,,
+,,Sadness,CC,,
+,,,CC,,
+,,Angry,CC,,
+,,,CC,,
+,,Sadness,SNA,,
+,,Angry,SNA,,
+,,Angry,SNA,,
+,,,SNA,,
+,,Happiness,AAI,,
+,,,AAI,,
+,,,AAI,,
+,,Sadness,AAI,,
+,,Sadness,CC,,
+,,,CC,,
+,,,CC,,
+,,Neutral,CC,,
+,,,SNA,,
+,,Angry,SNA,,
+,,Happiness,SNA,,
+,,Angry,SNA,,
+,,Happiness,AAI,,
+,,,AAI,,
+,,,AAI,,
+,,,AAI,,
+,,Neutral,CC,,
+,,Neutral,CC,,
+,,,CC,,
+,,,CC,,
+,,,SNA,,
+,,Neutral,SNA,,
+,,,SNA,,
+,,Angry,SNA,,
+,,Angry,AAI,,
+,,Happiness,AAI,,
+,,,AAI,,
+,,Neutral,AAI,,
+,,,CC,,
+,,Angry,CC,,
+,,Happiness,CC,,
+,,Neutral,CC,,
+,,Happiness,SNA,,
+,,,SNA,,
+,,Neutral,SNA,,
+,,,SNA,,
+,,,AAI,,
+,,,AAI,,
+,,,AAI,,
+,,,AAI,,
+,,,CC,,
+,,,CC,,
+,,Sadness,CC,,
+,,,CC,,
+,,Happiness,SNA,,
+,,,SNA,,
+,,,SNA,,
+,,,SNA,,
+,,,AAI,,
+,,,AAI,,
+,,,AAI,,
+,,,AAI,,
+,,,CC,,
+,,,CC,,
+,,,CC,,
+,,Happiness,CC,,
+,,,SNA,,
+,,Sadness,SNA,,
+,,,SNA,,
+,,,SNA,,
+,,,AAI,,
+,,,AAI,,
+,,Angry,AAI,,
+,,,AAI,,
+,,Angry,CC,,
+,,,CC,,
+,,Happiness,CC,,
+,,Neutral,CC,,
+,,Neutral,SNA,,
+,,Happiness,SNA,,
+,,Sadness,SNA,,
+,,,SNA,,
+,,Happiness,AAI,,
+,,Neutral,AAI,,
+,,Neutral,AAI,,
+,,,AAI,,
+,,Angry,CC,,
+,,,CC,,
+,,,CC,,
+,,,CC,,
+,,Angry,SNA,,
+,,Sadness,SNA,,
+,,Angry,SNA,,
+,,,SNA,,
+,,Sadness,AAI,,
+,,,AAI,,
+,,,AAI,,
+,,,AAI,,
+,,,CC,,
+,,Sadness,CC,,
+,,,CC,,
+,,Happiness,CC,,
+,,Neutral,SNA,,
+,,Neutral,SNA,,
+,,,SNA,,
+,,,SNA,,
+,,Happiness,AAI,,
+,,,AAI,,
+,,Angry,AAI,,
+,,Happiness,AAI,,
+,,,CC,,
+,,,CC,,
+,,,CC,,
+,,Neutral,CC,,
+,,,SNA,,
+,,,SNA,,
+,,,SNA,,
+,,,SNA,,
+,,,AAI,,
+,,Neutral,AAI,,
+,,,AAI,,
+,,,AAI,,
+,,,CC,,
+,,Happiness,CC,,
+,,,CC,,
+,,Neutral,CC,,
+,,Neutral,SNA,,
+,,,SNA,,
+,,,SNA,,
+,,Sadness,SNA,,
+,,,AAI,,
+,,Angry,AAI,,
+,,Neutral,AAI,,
+,,Sadness,AAI,,
+,,Happiness,CC,,
+,,,CC,,
+,,,CC,,
+,,Neutral,CC,,
+,,Neutral,SNA,,
+,,Angry,SNA,,
+,,Sadness,SNA,,
+,,Neutral,SNA,,
+,,,AAI,,
+,,,AAI,,
+,,,AAI,,
+,,,AAI,,
+,,Angry,CC,,
+,,Happiness,CC,,
+,,,CC,,
+,,,CC,,
+,,,SNA,,
+,,,SNA,,
+,,Angry,SNA,,
+,,,SNA,,
+,,,AAI,,
+,,Neutral,AAI,,
+,,Happiness,AAI,,
+,,Angry,AAI,,
+,,,CC,,
+,,,CC,,
+,,Happiness,CC,,
+,,,CC,,
+,,Sadness,SNA,,
+,,Neutral,SNA,,
+,,,SNA,,
+,,,SNA,,
+,,Angry,AAI,,
+,,,AAI,,
+,,Sadness,AAI,,
+,,,AAI,,
+,,Angry,CC,,
+,,Neutral,CC,,
+,,,CC,,
+,,Neutral,CC,,
+,,,SNA,,
+,,,SNA,,
+,,Sadness,SNA,,
+,,,SNA,,
+,,Neutral,AAI,,
+,,Neutral,AAI,,
+,,,AAI,,
+,,Sadness,AAI,,
+,,Happiness,CC,,
+,,Angry,CC,,
+,,Sadness,CC,,
+,,Sadness,CC,,
+,,,SNA,,
+,,,SNA,,
+,,,SNA,,
+,,,SNA,,
+,,,AAI,,
+,,Happiness,AAI,,
+,,,AAI,,
+,,Sadness,AAI,,
+,,Angry,CC,,
+,,,CC,,
+,,,CC,,
+,,,CC,,
+,,,SNA,,
+,,,SNA,,
+,,,SNA,,
+,,Happiness,SNA,,
+,,Sadness,AAI,,
+,,Angry,AAI,,
+,,,AAI,,
+,,Neutral,AAI,,
+,,Angry,CC,,
+,,Neutral,CC,,
+,,,CC,,
+,,,CC,,
+,,,SNA,,
+,,Sadness,SNA,,
+,,Angry,SNA,,
+,,Neutral,SNA,,
+,,Sadness,AAI,,
+,,Sadness,AAI,,
+,,,AAI,,
+,,,AAI,,
+,,Happiness,CC,,
+,,,CC,,
+,,,CC,,
+,,Neutral,CC,,
+,,,SNA,,
+,,Sadness,SNA,,
+,,,SNA,,
+,,Neutral,SNA,,
+,,,AAI,,
+,,Neutral,AAI,,
+,,Angry,AAI,,
+,,,AAI,,
+,,Happiness,CC,,
+,,Angry,CC,,
+,,,CC,,
+,,Sadness,CC,,
+,,,SNA,,
+,,,SNA,,
+,,Neutral,SNA,,
+,,,SNA,,
+,,Neutral,AAI,,
+,,Angry,AAI,,
+,,,AAI,,
+,,,AAI,,
+,,,CC,,
+,,Angry,CC,,
+,,Sadness,CC,,
+,,,CC,,
+,,,SNA,,
+,,,SNA,,
+,,Sadness,SNA,,
+,,,SNA,,
+,,Happiness,AAI,,
+,,,AAI,,
+,,,AAI,,
+,,Angry,AAI,,
+,,Sadness,CC,,
+,,,CC,,
+,,,CC,,
+,,Sadness,CC,,
+,,Sadness,SNA,,
+,,Happiness,SNA,,
+,,,SNA,,
+,,,SNA,,
+,,Neutral,AAI,,
+,,,AAI,,
+,,,AAI,,
+,,Neutral,AAI,,
+,,,CC,,
+,,Angry,CC,,
+,,,CC,,
+,,,CC,,
+,,,SNA,,
+,,,SNA,,
+,,Angry,SNA,,
+,,Sadness,SNA,,
+,,,AAI,,
+,,Happiness,AAI,,
+,,,AAI,,
+,,,AAI,,
+,,,CC,,
+,,,CC,,
+,,Angry,CC,,
+,,Neutral,CC,,
+,,,SNA,,
+,,Happiness,SNA,,
+,,,SNA,,
+,,Neutral,SNA,,
+,,,AAI,,
+,,,AAI,,
+,,Neutral,AAI,,
+,,Sadness,AAI,,
+,,Sadness,CC,,
+,,Sadness,CC,,
+,,Happiness,CC,,
+,,Sadness,CC,,
+,,,SNA,,
+,,,SNA,,
+,,Happiness,SNA,,
+,,,SNA,,
+,,Neutral,AAI,,
+,,,AAI,,
+,,,AAI,,
+,,,AAI,,
+,,Sadness,CC,,
+,,,CC,,
+,,Sadness,CC,,
+,,Neutral,CC,,
+,,,SNA,,
+,,,SNA,,
+,,,SNA,,
+,,Happiness,SNA,,
+,,,AAI,,
+,,Neutral,AAI,,
+,,Angry,AAI,,
+,,Happiness,AAI,,
+,,,CC,,
+,,Sadness,CC,,
+,,Neutral,CC,,
+,,Sadness,CC,,
+,,,SNA,,
+,,,SNA,,
+,,Sadness,SNA,,
+,,Happiness,SNA,,
+,,Angry,AAI,,
+,,,AAI,,
+,,Neutral,AAI,,
+,,,AAI,,
+,,Angry,CC,,
+,,,CC,,
+,,Angry,CC,,
+,,Happiness,CC,,
+,,Neutral,SNA,,
+,,Neutral,SNA,,
+,,,SNA,,
+,,,SNA,,
+,,Happiness,AAI,,
+,,Sadness,AAI,,
+,,,AAI,,
+,,Happiness,AAI,,
+,,,CC,,
+,,Angry,CC,,
+,,Neutral,CC,,
+,,,CC,,
+,,,SNA,,
+,,Happiness,SNA,,
+,,Sadness,SNA,,
+,,,SNA,,
+,,,AAI,,
+,,Sadness,AAI,,
+,,Neutral,AAI,,
+,,,AAI,,
+,,,CC,,
+,,,CC,,
+,,,CC,,
+,,Angry,CC,,
+,,Angry,SNA,,
+,,,SNA,,
+,,,SNA,,
+,,,SNA,,
+,,,AAI,,
+,,,AAI,,
+,,Angry,AAI,,
+,,Angry,AAI,,
+,,Angry,CC,,
+,,,CC,,
+,,,CC,,
+,,,CC,,
+,,,SNA,,
+,,,SNA,,
+,,Sadness,SNA,,
+,,,SNA,,
+,,Happiness,AAI,,
+,,,AAI,,
+,,Sadness,AAI,,
+,,,AAI,,
+,,,CC,,
+,,Angry,CC,,
+,,Angry,CC,,
+,,Happiness,CC,,
+,,Sadness,SNA,,
+,,,SNA,,
+,,Angry,SNA,,
+,,,SNA,,
+,,,AAI,,
+,,Sadness,AAI,,
+,,,AAI,,
+,,,AAI,,
+,,Sadness,CC,,
+,,,CC,,
+,,Angry,CC,,
+,,Neutral,CC,,
+,,Angry,SNA,,
+,,Neutral,SNA,,
+,,Sadness,SNA,,
+,,Angry,SNA,,
+,,,AAI,,
+,,,AAI,,
+,,,AAI,,
+,,Happiness,AAI,,
+,,Happiness,CC,,
+,,,CC,,
+,,Angry,CC,,
+,,,CC,,
+,,Sadness,SNA,,
+,,,SNA,,
+,,Neutral,SNA,,
+,,,SNA,,
+,,,AAI,,
+,,,AAI,,
+,,,AAI,,
+,,Neutral,AAI,,
+,,Neutral,CC,,
+,,Angry,CC,,
+,,Neutral,CC,,
+,,,CC,,
+,,Angry,SNA,,
+,,Happiness,SNA,,
+,,Neutral,SNA,,
+,,,SNA,,
+,,,AAI,,
+,,Angry,AAI,,
+,,,AAI,,
+,,,AAI,,
+,,Happiness,CC,,
+,,,CC,,
+,,,CC,,
+,,,CC,,
+,,,SNA,,
+,,,SNA,,
+,,Sadness,SNA,,
+,,,SNA,,
+,,,AAI,,
+,,,AAI,,
+,,Angry,AAI,,
+,,,AAI,,
+,,,CC,,
+,,,CC,,
+,,Angry,CC,,
+,,Happiness,CC,,
+,,,SNA,,
+,,,SNA,,
+,,Sadness,SNA,,
+,,,SNA,,
+,,,AAI,,
+,,,AAI,,
+,,Happiness,AAI,,
+,,Angry,AAI,,
+,,Neutral,CC,,
+,,Neutral,CC,,
+,,,CC,,
+,,,CC,,
+,,Angry,SNA,,
+,,,SNA,,
+,,,SNA,,
+,,Sadness,SNA,,
+,,Angry,AAI,,
+,,,AAI,,
+,,,AAI,,
+,,Angry,AAI,,
+,,Neutral,CC,,
+,,,CC,,
+,,,CC,,
+,,,CC,,
+,,Happiness,SNA,,
+,,Sadness,SNA,,
+,,Neutral,SNA,,
+,,,SNA,,
+,,Happiness,AAI,,
+,,,AAI,,
+,,Angry,AAI,,
+,,,AAI,,
+,,,CC,,
+,,,CC,,
+,,,CC,,
+,,Sadness,CC,,
+,,Sadness,SNA,,
+,,Angry,SNA,,
+,,,SNA,,
+,,Sadness,SNA,,
+,,Happiness,AAI,,
+,,Neutral,AAI,,
+,,Sadness,AAI,,
+,,Angry,AAI,,
+,,Neutral,CC,,
+,,,CC,,
+,,,CC,,
+,,,CC,,
+,,Angry,SNA,,
+,,Sadness,SNA,,
+,,Angry,SNA,,
+,,Neutral,SNA,,
+,,Angry,AAI,,
+,,Neutral,AAI,,
+,,Sadness,AAI,,
+,,Neutral,AAI,,
+,,Sadness,CC,,
+,,Sadness,CC,,
+,,,CC,,
+,,Happiness,CC,,
+,,Neutral,SNA,,
+,,,SNA,,
+,,,SNA,,
+,,,SNA,,
+,,,AAI,,
+,,Happiness,AAI,,
+,,Neutral,AAI,,
+,,,AAI,,
+,,Neutral,CC,,
+,,,CC,,
+,,,CC,,
+,,Happiness,CC,,
+,,,SNA,,
+,,,SNA,,
+,,Angry,SNA,,
+,,,SNA,,
+,,,AAI,,
+,,,AAI,,
+,,Angry,AAI,,
+,,Neutral,AAI,,
+,,Angry,CC,,
+,,,CC,,
+,,,CC,,
+,,Happiness,CC,,
+,,,SNA,,
+,,,SNA,,
+,,Angry,SNA,,
+,,Neutral,SNA,,
+,,,AAI,,
+,,,AAI,,
+,,Neutral,AAI,,
+,,Happiness,AAI,,
+,,Angry,CC,,
+,,,CC,,
+,,,CC,,
+,,Sadness,CC,,
+,,Happiness,SNA,,
+,,Angry,SNA,,
+,,,SNA,,
+,,,SNA,,
+,,Angry,AAI,,
+,,Happiness,AAI,,
+,,Happiness,AAI,,
+,,,AAI,,
+,,,CC,,
+,,,CC,,
+,,,CC,,
+,,Angry,CC,,
+,,,SNA,,
+,,,SNA,,
+,,,SNA,,
+,,Neutral,SNA,,
+,,,AAI,,
+,,,AAI,,
+,,Neutral,AAI,,
+,,,AAI,,
+,,Neutral,CC,,
+,,Sadness,CC,,
+,,Happiness,CC,,
+,,,CC,,
+,,Angry,SNA,,
+,,,SNA,,
+,,,SNA,,
+,,Neutral,SNA,,
+,,,AAI,,
+,,Angry,AAI,,
+,,,AAI,,
+,,Happiness,AAI,,
+,,Neutral,CC,,
+,,Sadness,CC,,
+,,Happiness,CC,,
+,,,CC,,
+,,Neutral,SNA,,
+,,,SNA,,
+,,,SNA,,
+,,Happiness,SNA,,
+,,,AAI,,
+,,Angry,AAI,,
+,,Happiness,AAI,,
+,,Angry,AAI,,
+,,Neutral,CC,,
+,,,CC,,
+,,,CC,,
+,,Angry,CC,,
+,,Angry,SNA,,
+,,Sadness,SNA,,
+,,Happiness,SNA,,
+,,Angry,SNA,,
+,,Neutral,AAI,,
+,,,AAI,,
+,,,AAI,,
+,,,AAI,,
+,,,CC,,
+,,Neutral,CC,,
+,,,CC,,
+,,Happiness,CC,,
+,,Neutral,SNA,,
+,,,SNA,,
+,,,SNA,,
+,,,SNA,,
+,,,AAI,,
+,,,AAI,,
+,,Neutral,AAI,,
+,,,AAI,,
+,,Sadness,CC,,
+,,Sadness,CC,,
+,,Neutral,CC,,
+,,,CC,,
+,,Sadness,SNA,,
+,,Sadness,SNA,,
+,,Neutral,SNA,,
+,,Sadness,SNA,,
+,,,AAI,,
+,,,AAI,,
+,,,AAI,,
+,,,AAI,,
+,,Happiness,CC,,
+,,,CC,,
+,,Happiness,CC,,
+,,,CC,,
+,,Angry,SNA,,
+,,Sadness,SNA,,
+,,Happiness,SNA,,
+,,,SNA,,
+,,Neutral,AAI,,
+,,,AAI,,
+,,,AAI,,
+,,Neutral,AAI,,
+,,,CC,,
+,,Happiness,CC,,
+,,,CC,,
+,,,CC,,
+,,,SNA,,
+,,Happiness,SNA,,
+,,Angry,SNA,,
+,,Angry,SNA,,
+,,,AAI,,
+,,,AAI,,
+,,Neutral,AAI,,
+,,Angry,AAI,,
+,,,CC,,
+,,Neutral,CC,,
+,,,CC,,
+,,Sadness,CC,,
+,,,SNA,,
+,,Sadness,SNA,,
+,,Angry,SNA,,
+,,Neutral,SNA,,
+,,,AAI,,
+,,Sadness,AAI,,
+,,,AAI,,
+,,Happiness,AAI,,
+,,,CC,,
+,,Angry,CC,,
+,,,CC,,
+,,Angry,CC,,
+,,Sadness,SNA,,
+,,Angry,SNA,,
+,,,SNA,,
+,,Angry,SNA,,
+,,Neutral,AAI,,
+,,Angry,AAI,,
+,,,AAI,,
+,,,AAI,,
+,,,CC,,
+,,Neutral,CC,,
+,,Sadness,CC,,
+,,,CC,,
+,,Neutral,SNA,,
+,,Sadness,SNA,,
+,,Angry,SNA,,
+,,Neutral,SNA,,
+,,Neutral,AAI,,
+,,,AAI,,
+,,Neutral,AAI,,
+,,,AAI,,
+,,,CC,,
+,,Angry,CC,,
+,,Neutral,CC,,
+,,,CC,,
+,,,SNA,,
+,,Sadness,SNA,,
+,,,SNA,,
+,,,SNA,,
+,,Happiness,AAI,,
+,,,AAI,,
+,,,AAI,,
+,,Angry,AAI,,
+,,Angry,CC,,
+,,,CC,,
+,,,CC,,
+,,,CC,,
+,,Sadness,SNA,,
+,,,SNA,,
+,,,SNA,,
+,,Happiness,SNA,,
+,,,AAI,,
+,,,AAI,,
+,,,AAI,,
+,,,AAI,,
+,,Sadness,CC,,
+,,,CC,,
+,,,CC,,
+,,Neutral,CC,,
+,,Sadness,SNA,,
+,,Sadness,SNA,,
+,,,SNA,,
+,,Sadness,SNA,,
+,,,AAI,,
+,,Neutral,AAI,,
+,,Happiness,AAI,,
+,,,AAI,,
+,,,CC,,
+,,Happiness,CC,,
+,,,CC,,
+,,Happiness,CC,,
+,,Sadness,SNA,,
+,,Neutral,SNA,,
+,,,SNA,,
+,,,SNA,,
+,,Happiness,AAI,,
+,,,AAI,,
+,,,AAI,,
+,,,AAI,,
+,,Happiness,CC,,
+,,Sadness,CC,,
+,,Happiness,CC,,
+,,,CC,,
+,,Happiness,SNA,,
+,,Happiness,SNA,,
+,,Sadness,SNA,,
+,,,SNA,,
+,,,AAI,,
+,,Sadness,AAI,,
+,,Angry,AAI,,
+,,Happiness,AAI,,
+,,Neutral,CC,,
+,,Neutral,CC,,
+,,Happiness,CC,,
+,,Neutral,CC,,
+,,,SNA,,
+,,Neutral,SNA,,
+,,,SNA,,
+,,Angry,SNA,,
+,,Neutral,AAI,,
+,,,AAI,,
+,,Happiness,AAI,,
+,,,AAI,,
+,,,CC,,
+,,Neutral,CC,,
+,,Sadness,CC,,
+,,,CC,,
+,,Neutral,SNA,,
+,,,SNA,,
+,,Angry,SNA,,
+,,Sadness,SNA,,
+,,,AAI,,
+,,,AAI,,
+,,Angry,AAI,,
+,,,AAI,,
+,,Sadness,CC,,
+,,Sadness,CC,,
+,,,CC,,
+,,,CC,,
+,,,SNA,,
+,,Angry,SNA,,
+,,Happiness,SNA,,
+,,Sadness,SNA,,
+,,,AAI,,
+,,,AAI,,
+,,,AAI,,
+,,,AAI,,
+,,Angry,CC,,
+,,,CC,,
+,,Angry,CC,,
+,,,CC,,
+,,,SNA,,
+,,Neutral,SNA,,
+,,Sadness,SNA,,
+,,Angry,SNA,,
+,,Happiness,AAI,,
+,,,AAI,,
+,,Angry,AAI,,
+,,,AAI,,
+,,,CC,,
+,,Neutral,CC,,
+,,Neutral,CC,,
+,,Sadness,CC,,
+,,,SNA,,
+,,,SNA,,
+,,Happiness,SNA,,
+,,,SNA,,
+,,Sadness,AAI,,
+,,,AAI,,
+,,,AAI,,
+,,,AAI,,
+,,,CC,,
+,,Happiness,CC,,
+,,Angry,CC,,
+,,,CC,,
+,,Neutral,SNA,,
+,,Sadness,SNA,,
+,,Neutral,SNA,,
+,,Happiness,SNA,,
+,,Angry,AAI,,
+,,,AAI,,
+,,Happiness,AAI,,
+,,Happiness,AAI,,
+,,Sadness,CC,,
+,,Happiness,CC,,
+,,,CC,,
+,,Sadness,CC,,
+,,,SNA,,
+,,Neutral,SNA,,
+,,Happiness,SNA,,
+,,,SNA,,
+,,Neutral,AAI,,
+,,Neutral,AAI,,
+,,Angry,AAI,,
+,,Angry,AAI,,
+,,Angry,CC,,
+,,,CC,,
+,,,CC,,
+,,Neutral,CC,,
+,,,SNA,,
+,,Sadness,SNA,,
+,,,SNA,,
+,,Happiness,SNA,,
+,,,AAI,,
+,,Neutral,AAI,,
+,,Angry,AAI,,
+,,Sadness,AAI,,
+,,Angry,CC,,
+,,,CC,,
+,,Neutral,CC,,
+,,,CC,,
+,,,SNA,,
+,,,SNA,,
+,,,SNA,,
+,,Neutral,SNA,,
+,,,AAI,,
+,,,AAI,,
+,,,AAI,,
+,,Neutral,AAI,,
+,,,CC,,
+,,Neutral,CC,,
+,,,CC,,
+,,Neutral,CC,,
+,,,SNA,,
+,,Neutral,SNA,,
+,,Sadness,SNA,,
+,,Angry,SNA,,
+,,Sadness,AAI,,
+,,,AAI,,
+,,,AAI,,
+,,Neutral,AAI,,
+,,,CC,,
+,,,CC,,
+,,Angry,CC,,
+,,,CC,,
+,,,SNA,,
+,,Happiness,SNA,,
+,,,SNA,,
+,,,SNA,,
+,,,AAI,,
+,,Happiness,AAI,,
+,,Happiness,AAI,,
+,,Sadness,AAI,,
+,,Happiness,CC,,
+,,Happiness,CC,,
+,,Neutral,CC,,
+,,Happiness,CC,,
+,,,SNA,,
+,,Neutral,SNA,,
+,,Neutral,SNA,,
+,,Sadness,SNA,,
+,,,AAI,,
+,,,AAI,,
+,,,AAI,,
+,,Neutral,AAI,,
+,,Angry,CC,,
+,,,CC,,
+,,Happiness,CC,,
+,,,CC,,
+,,,SNA,,
+,,,SNA,,
+,,Angry,SNA,,
+,,Neutral,SNA,,
+,,Neutral,AAI,,
+,,Neutral,AAI,,
+,,Happiness,AAI,,
+,,,AAI,,
+,,,CC,,
+,,Happiness,CC,,
+,,Sadness,CC,,
+,,Angry,CC,,
+,,,SNA,,
+,,,SNA,,
+,,,SNA,,
+,,Sadness,SNA,,
+,,Sadness,AAI,,
+,,Angry,AAI,,
+,,,AAI,,
+,,Happiness,AAI,,
+,,,CC,,
+,,Angry,CC,,
+,,Angry,CC,,
+,,Neutral,CC,,
+,,,SNA,,
+,,Angry,SNA,,
+,,Sadness,SNA,,
+,,,SNA,,
+,,,AAI,,
+,,,AAI,,
+,,Happiness,AAI,,
+,,Sadness,AAI,,
+,,,CC,,
+,,,CC,,
+,,,CC,,
+,,,CC,,
+,,Happiness,SNA,,
+,,Neutral,SNA,,
+,,Happiness,SNA,,
+,,,SNA,,
+,,Angry,AAI,,
+,,,AAI,,
+,,,AAI,,
+,,,AAI,,
+,,,CC,,
+,,,CC,,
+,,Happiness,CC,,
+,,Neutral,CC,,
+,,,SNA,,
+,,,SNA,,
+,,,SNA,,
+,,,SNA,,
+,,,AAI,,
+,,,AAI,,
+,,,AAI,,
+,,Happiness,AAI,,
+,,Sadness,CC,,
+,,Happiness,CC,,
+,,Happiness,CC,,
+,,,CC,,
+,,,SNA,,
+,,Sadness,SNA,,
+,,Angry,SNA,,
+,,,SNA,,
+,,Neutral,AAI,,
+,,Neutral,AAI,,
+,,,AAI,,
+,,Happiness,AAI,,
+,,,CC,,
+,,Happiness,CC,,
+,,,CC,,
+,,Happiness,CC,,
+,,Neutral,SNA,,
+,,Angry,SNA,,
+,,,SNA,,
+,,,SNA,,
+,,Neutral,AAI,,
+,,Angry,AAI,,
+,,Sadness,AAI,,
+,,Neutral,AAI,,
+,,,CC,,
+,,Happiness,CC,,
+,,,CC,,
+,,Happiness,CC,,
+,,,SNA,,
+,,Happiness,SNA,,
+,,,SNA,,
+,,,SNA,,
+,,Neutral,AAI,,
+,,Neutral,AAI,,
+,,Angry,AAI,,
+,,Happiness,AAI,,
+,,,CC,,
+,,,CC,,
+,,,CC,,
+,,,CC,,
+,,Angry,SNA,,
+,,Neutral,SNA,,
+,,,SNA,,
+,,,SNA,,
+,,Sadness,AAI,,
+,,,AAI,,
+,,Happiness,AAI,,
+,,,AAI,,
+,,Angry,CC,,
+,,,CC,,
+,,,CC,,
+,,,CC,,
+,,Angry,SNA,,
+,,,SNA,,
+,,,SNA,,
+,,,SNA,,
+,,Angry,AAI,,
+,,Sadness,AAI,,
+,,Neutral,AAI,,
+,,Sadness,AAI,,
+,,,CC,,
+,,,CC,,
+,,Angry,CC,,
+,,,CC,,
+,,Happiness,SNA,,
+,,,SNA,,
+,,Angry,SNA,,
+,,Angry,SNA,,
+,,,AAI,,
+,,,AAI,,
+,,,AAI,,
+,,,AAI,,
+,,,CC,,
+,,,CC,,
+,,,CC,,
+,,,CC,,
+,,Happiness,SNA,,
+,,Angry,SNA,,
+,,,SNA,,
+,,Angry,SNA,,
+,,,AAI,,
+,,Sadness,AAI,,
+,,Happiness,AAI,,
+,,Angry,AAI,,
+,,,CC,,
+,,,CC,,
+,,Sadness,CC,,
+,,,CC,,
+,,Happiness,SNA,,
+,,Neutral,SNA,,
+,,,SNA,,
+,,Happiness,SNA,,
+,,,AAI,,
+,,Sadness,AAI,,
+,,Angry,AAI,,
+,,,AAI,,
+,,Neutral,CC,,
+,,Sadness,CC,,
+,,Happiness,CC,,
+,,Neutral,CC,,
+,,Neutral,SNA,,
+,,Neutral,SNA,,
+,,Angry,SNA,,
+,,Angry,SNA,,
+,,Neutral,AAI,,
+,,Angry,AAI,,
+,,,AAI,,
+,,,AAI,,
+,,,CC,,
+,,Happiness,CC,,
+,,Neutral,CC,,
+,,Happiness,CC,,
+,,Sadness,SNA,,
+,,,SNA,,
+,,,SNA,,
+,,Angry,SNA,,
+,,Angry,AAI,,
+,,,AAI,,
+,,,AAI,,
+,,Neutral,AAI,,
+,,,CC,,
+,,Happiness,CC,,
+,,Angry,CC,,
+,,,CC,,
+,,,SNA,,
+,,,SNA,,
+,,Neutral,SNA,,
+,,Sadness,SNA,,
+,,,AAI,,
+,,Neutral,AAI,,
+,,,AAI,,
+,,,AAI,,
+,,,CC,,
+,,Angry,CC,,
+,,Angry,CC,,
+,,Happiness,CC,,
+,,,SNA,,
+,,,SNA,,
+,,,SNA,,
+,,,SNA,,
+,,,AAI,,
+,,Sadness,AAI,,
+,,Angry,AAI,,
+,,,AAI,,
+,,Neutral,CC,,
+,,,CC,,
+,,Happiness,CC,,
+,,Angry,CC,,
+,,,SNA,,
+,,,SNA,,
+,,Sadness,SNA,,
+,,,SNA,,
+,,,AAI,,
+,,Neutral,AAI,,
+,,,AAI,,
+,,,AAI,,
+,,,CC,,
+,,,CC,,
+,,,CC,,
+,,Neutral,CC,,
+,,Sadness,SNA,,
+,,Happiness,SNA,,
+,,,SNA,,
+,,,SNA,,
+,,,AAI,,
+,,Sadness,AAI,,
+,,Sadness,AAI,,
+,,,AAI,,
+,,Sadness,CC,,
+,,,CC,,
+,,,CC,,
+,,Angry,CC,,
+,,Sadness,SNA,,
+,,Happiness,SNA,,
+,,Happiness,SNA,,
+,,,SNA,,
+,,Sadness,AAI,,
+,,Angry,AAI,,
+,,Sadness,AAI,,
+,,,AAI,,
+,,Angry,CC,,
+,,,CC,,
+,,,CC,,
+,,Angry,CC,,
+,,,SNA,,
+,,,SNA,,
+,,Sadness,SNA,,
+,,,SNA,,
+,,Angry,AAI,,
+,,,AAI,,
+,,Angry,AAI,,
+,,Angry,AAI,,
+,,,CC,,
+,,,CC,,
+,,,CC,,
+,,,CC,,
+,,,SNA,,
+,,,SNA,,
+,,,SNA,,
+,,,SNA,,
+,,Angry,AAI,,
+,,,AAI,,
+,,Sadness,AAI,,
+,,Sadness,AAI,,
+,,,CC,,
+,,Neutral,CC,,
+,,,CC,,
+,,,CC,,
+,,Neutral,SNA,,
+,,Neutral,SNA,,
+,,Neutral,SNA,,
+,,Happiness,SNA,,
+,,Happiness,AAI,,
+,,Happiness,AAI,,
+,,,AAI,,
+,,,AAI,,
+,,,CC,,
+,,,CC,,
+,,Happiness,CC,,
+,,,CC,,
+,,Neutral,SNA,,
+,,,SNA,,
+,,,SNA,,
+,,Neutral,SNA,,
+,,,AAI,,
+,,Angry,AAI,,
+,,,AAI,,
+,,,AAI,,
+,,Sadness,CC,,
+,,Neutral,CC,,
+,,Happiness,CC,,
+,,,CC,,
+,,,SNA,,
+,,Angry,SNA,,
+,,Sadness,SNA,,
+,,,SNA,,
+,,,AAI,,
+,,,AAI,,
+,,,AAI,,
+,,,AAI,,
+,,,CC,,
+,,,CC,,
+,,Angry,CC,,
+,,Angry,CC,,
+,,,SNA,,
+,,Angry,SNA,,
+,,,SNA,,
+,,Neutral,SNA,,
+,,,AAI,,
+,,,AAI,,
+,,,AAI,,
+,,,AAI,,
+,,Sadness,CC,,
+,,Happiness,CC,,
+,,Sadness,CC,,
+,,Angry,CC,,
+,,,SNA,,
+,,,SNA,,
+,,Angry,SNA,,
+,,Angry,SNA,,
+,,Neutral,AAI,,
+,,,AAI,,
+,,Sadness,AAI,,
+,,,AAI,,
+,,,CC,,
+,,,CC,,
+,,,CC,,
+,,Sadness,CC,,
+,,Sadness,SNA,,
+,,,SNA,,
+,,,SNA,,
+,,Sadness,SNA,,
+,,,AAI,,
+,,,AAI,,
+,,Sadness,AAI,,
+,,Angry,AAI,,
+,,Sadness,CC,,
+,,Happiness,CC,,
+,,Sadness,CC,,
+,,,CC,,
+,,,SNA,,
+,,,SNA,,
+,,Happiness,SNA,,
+,,Angry,SNA,,
+,,,AAI,,
+,,Sadness,AAI,,
+,,Neutral,AAI,,
+,,Happiness,AAI,,
+,,,CC,,
+,,,CC,,
+,,Angry,CC,,
+,,,CC,,
+,,Angry,SNA,,
+,,Happiness,SNA,,
+,,,SNA,,
+,,,SNA,,
+,,,AAI,,
+,,,AAI,,
+,,Angry,AAI,,
+,,,AAI,,
+,,Happiness,CC,,
+,,,CC,,
+,,,CC,,
+,,,CC,,
+,,Angry,SNA,,
+,,,SNA,,
+,,Happiness,SNA,,
+,,Sadness,SNA,,
+,,,AAI,,
+,,,AAI,,
+,,,AAI,,
+,,,AAI,,
+,,Neutral,CC,,
+,,,CC,,
+,,,CC,,
+,,,CC,,
+,,,SNA,,
+,,Angry,SNA,,
+,,Sadness,SNA,,
+,,,SNA,,
+,,,AAI,,
+,,,AAI,,
+,,,AAI,,
+,,,AAI,,
+,,Angry,CC,,
+,,,CC,,
+,,Sadness,CC,,
+,,Neutral,CC,,
+,,Sadness,SNA,,
+,,Happiness,SNA,,
+,,Neutral,SNA,,
+,,Sadness,SNA,,
+,,Neutral,AAI,,
+,,,AAI,,
+,,Happiness,AAI,,
+,,,AAI,,
+,,,CC,,
+,,Neutral,CC,,
+,,Sadness,CC,,
+,,,CC,,
+,,Sadness,SNA,,
+,,,SNA,,
+,,,SNA,,
+,,Sadness,SNA,,
+,,,AAI,,
+,,Happiness,AAI,,
+,,Happiness,AAI,,
+,,Sadness,AAI,,
+,,,CC,,
+,,,CC,,
+,,,CC,,
+,,,CC,,
+,,,SNA,,
+,,Neutral,SNA,,
+,,,SNA,,
+,,,SNA,,
+,,Angry,AAI,,
+,,,AAI,,
+,,Angry,AAI,,
+,,Happiness,AAI,,
+,,,CC,,
+,,,CC,,
+,,Sadness,CC,,
+,,,CC,,
+,,,SNA,,
+,,Happiness,SNA,,
+,,,SNA,,
+,,,SNA,,
+,,,AAI,,
+,,,AAI,,
+,,Neutral,AAI,,
+,,Happiness,AAI,,
+,,,CC,,
+,,,CC,,
+,,Happiness,CC,,
+,,Sadness,CC,,
+,,Neutral,SNA,,
+,,Happiness,SNA,,
+,,Angry,SNA,,
+,,,SNA,,
+,,,AAI,,
+,,Happiness,AAI,,
+,,Angry,AAI,,
+,,Neutral,AAI,,
+,,,CC,,
+,,Sadness,CC,,
+,,Neutral,CC,,
+,,Neutral,CC,,
+,,,SNA,,
+,,Happiness,SNA,,
+,,Angry,SNA,,
+,,,SNA,,
+,,,AAI,,
+,,,AAI,,
+,,Sadness,AAI,,
+,,,AAI,,
+,,,CC,,
+,,,CC,,
+,,,CC,,
+,,,CC,,
+,,,SNA,,
+,,,SNA,,
+,,,SNA,,
+,,,SNA,,
+,,,AAI,,
+,,,AAI,,
+,,Sadness,AAI,,
+,,,AAI,,
+,,,CC,,
+,,,CC,,
+,,Neutral,CC,,
+,,,CC,,
+,,Sadness,SNA,,
+,,,SNA,,
+,,Angry,SNA,,
+,,Sadness,SNA,,
+,,,AAI,,
+,,Happiness,AAI,,
+,,Happiness,AAI,,
+,,,AAI,,
+,,Angry,CC,,
+,,,CC,,
+,,,CC,,
+,,,CC,,
+,,Angry,SNA,,
+,,,SNA,,
+,,,SNA,,
+,,,SNA,,
+,,Angry,AAI,,
+,,,AAI,,
+,,Neutral,AAI,,
+,,,AAI,,
+,,Angry,CC,,
+,,Sadness,CC,,
+,,Neutral,CC,,
+,,Angry,CC,,
+,,Sadness,SNA,,
+,,,SNA,,
+,,,SNA,,
+,,Angry,SNA,,
+,,Sadness,AAI,,
+,,,AAI,,
+,,,AAI,,
+,,,AAI,,
+,,Sadness,CC,,
+,,Neutral,CC,,
+,,Angry,CC,,
+,,,CC,,
+,,Neutral,SNA,,
+,,Neutral,SNA,,
+,,,SNA,,
+,,,SNA,,
+,,,AAI,,
+,,,AAI,,
+,,,AAI,,
+,,Happiness,AAI,,
+,,,CC,,
+,,,CC,,
+,,,CC,,
+,,,CC,,
+,,Angry,SNA,,
+,,Neutral,SNA,,
+,,Angry,SNA,,
+,,Angry,SNA,,
+,,,AAI,,
+,,,AAI,,
+,,Angry,AAI,,
+,,,AAI,,
+,,Sadness,CC,,
+,,,CC,,
+,,,CC,,
+,,,CC,,
+,,Angry,SNA,,
+,,,SNA,,
+,,,SNA,,
+,,,SNA,,
+,,Happiness,AAI,,
+,,Happiness,AAI,,
+,,Angry,AAI,,
+,,,AAI,,
+,,Angry,CC,,
+,,,CC,,
+,,Angry,CC,,
+,,Neutral,CC,,
+,,Sadness,SNA,,
+,,,SNA,,
+,,,SNA,,
+,,,SNA,,
+,,Angry,AAI,,
+,,,AAI,,
+,,Angry,AAI,,
+,,,AAI,,
+,,,CC,,
+,,Angry,CC,,
+,,,CC,,
+,,Happiness,CC,,
+,,,SNA,,
+,,,SNA,,
+,,Neutral,SNA,,
+,,Neutral,SNA,,
+,,Neutral,AAI,,
+,,,AAI,,
+,,,AAI,,
+,,,AAI,,
+,,Neutral,CC,,
+,,,CC,,
+,,Angry,CC,,
+,,Sadness,CC,,
+,,Happiness,SNA,,
+,,Sadness,SNA,,
+,,,SNA,,
+,,,SNA,,
+,,Angry,AAI,,
+,,,AAI,,
+,,Sadness,AAI,,
+,,,AAI,,
+,,,CC,,
+,,Angry,CC,,
+,,Happiness,CC,,
+,,,CC,,
+,,Happiness,SNA,,
+,,Angry,SNA,,
+,,Sadness,SNA,,
+,,Neutral,SNA,,
+,,Sadness,AAI,,
+,,Sadness,AAI,,
+,,Angry,AAI,,
+,,,AAI,,
+,,Happiness,CC,,
+,,,CC,,
+,,,CC,,
+,,Sadness,CC,,
+,,Sadness,SNA,,
+,,,SNA,,
+,,,SNA,,
+,,,SNA,,
+,,Neutral,AAI,,
+,,,AAI,,
+,,Sadness,AAI,,
+,,Neutral,AAI,,
+,,,CC,,
+,,Angry,CC,,
+,,Happiness,CC,,
+,,,CC,,
+,,,SNA,,
+,,,SNA,,
+,,Happiness,SNA,,
+,,,SNA,,
+,,Neutral,AAI,,
+,,Angry,AAI,,
+,,,AAI,,
+,,,AAI,,
+,,Happiness,CC,,
+,,,CC,,
+,,,CC,,
+,,,CC,,
+,,Neutral,SNA,,
+,,,SNA,,
+,,,SNA,,
+,,Angry,SNA,,
+,,Sadness,AAI,,
+,,Neutral,AAI,,
+,,,AAI,,
+,,,AAI,,
+,,,CC,,
+,,,CC,,
+,,Angry,CC,,
+,,Happiness,CC,,
+,,Happiness,SNA,,
+,,Happiness,SNA,,
+,,,SNA,,
+,,,SNA,,
+,,Angry,AAI,,
+,,Angry,AAI,,
+,,Happiness,AAI,,
+,,,AAI,,
+,,,CC,,
+,,Happiness,CC,,
+,,,CC,,
+,,,CC,,
+,,,SNA,,
+,,Neutral,SNA,,
+,,,SNA,,
+,,Sadness,SNA,,
+,,,AAI,,
+,,,AAI,,
+,,,AAI,,
+,,Sadness,AAI,,
+,,Neutral,CC,,
+,,Happiness,CC,,
+,,Neutral,CC,,
+,,Neutral,CC,,
+,,,SNA,,
+,,,SNA,,
+,,,SNA,,
+,,Neutral,SNA,,
+,,,AAI,,
+,,Happiness,AAI,,
+,,,AAI,,
+,,Sadness,AAI,,
+,,,CC,,
+,,,CC,,
+,,Neutral,CC,,
+,,Happiness,CC,,
+,,,SNA,,
+,,,SNA,,
+,,Neutral,SNA,,
+,,,SNA,,
+,,,AAI,,
+,,,AAI,,
+,,Angry,AAI,,
+,,,AAI,,
+,,Angry,CC,,
+,,,CC,,
+,,Neutral,CC,,
+,,Neutral,CC,,
+,,Angry,SNA,,
+,,,SNA,,
+,,Angry,SNA,,
+,,Neutral,SNA,,
+,,Sadness,AAI,,
+,,Sadness,AAI,,
+,,Angry,AAI,,
+,,Happiness,AAI,,
+,,Angry,CC,,
+,,,CC,,
+,,Neutral,CC,,
+,,,CC,,
+,,Angry,SNA,,
+,,,SNA,,
+,,,SNA,,
+,,Sadness,SNA,,
+,,,AAI,,
+,,,AAI,,
+,,,AAI,,
+,,Happiness,AAI,,
+,,Happiness,CC,,
+,,,CC,,
+,,,CC,,
+,,,CC,,
+,,Sadness,SNA,,
+,,Happiness,SNA,,
+,,,SNA,,
+,,,SNA,,
+,,,AAI,,
+,,,AAI,,
+,,,AAI,,
+,,Angry,AAI,,
+,,,CC,,
+,,,CC,,
+,,Happiness,CC,,
+,,,CC,,
+,,,SNA,,
+,,,SNA,,
+,,Happiness,SNA,,
+,,Angry,SNA,,
+,,Angry,AAI,,
+,,Happiness,AAI,,
+,,Neutral,AAI,,
+,,Happiness,AAI,,
+,,Angry,CC,,
+,,Sadness,CC,,
+,,,CC,,
+,,Angry,CC,,
+,,Neutral,SNA,,
+,,Angry,SNA,,
+,,Neutral,SNA,,
+,,Happiness,SNA,,
+,,Neutral,AAI,,
+,,,AAI,,
+,,,AAI,,
+,,,AAI,,
+,,,CC,,
+,,Happiness,CC,,
+,,,CC,,
+,,,CC,,
+,,Neutral,SNA,,
+,,Angry,SNA,,
+,,Angry,SNA,,
+,,,SNA,,
+,,Happiness,AAI,,
+,,Sadness,AAI,,
+,,,AAI,,
+,,,AAI,,
+,,Neutral,CC,,
+,,,CC,,
+,,Angry,CC,,
+,,,CC,,
+,,Sadness,SNA,,
+,,,SNA,,
+,,Neutral,SNA,,
+,,Happiness,SNA,,
+,,,AAI,,
+,,,AAI,,
+,,,AAI,,
+,,Angry,AAI,,
+,,Sadness,CC,,
+,,,CC,,
+,,Sadness,CC,,
+,,,CC,,
+,,,SNA,,
+,,,SNA,,
+,,,SNA,,
+,,Happiness,SNA,,
+,,,AAI,,
+,,,AAI,,
+,,Happiness,AAI,,
+,,,AAI,,
+,,,CC,,
+,,Angry,CC,,
+,,,CC,,
+,,,CC,,
+,,Happiness,SNA,,
+,,Happiness,SNA,,
+,,,SNA,,
+,,,SNA,,
+,,Angry,AAI,,
+,,Happiness,AAI,,
+,,,AAI,,
+,,Neutral,AAI,,
+,,,CC,,
+,,Neutral,CC,,
+,,Sadness,CC,,
+,,Happiness,CC,,
+,,Neutral,SNA,,
+,,Neutral,SNA,,
+,,Angry,SNA,,
+,,,SNA,,
+,,,AAI,,
+,,Angry,AAI,,
+,,,AAI,,
+,,Neutral,AAI,,
+,,,CC,,
+,,Happiness,CC,,
+,,Neutral,CC,,
+,,Sadness,CC,,
+,,Sadness,SNA,,
+,,Sadness,SNA,,
+,,Sadness,SNA,,
+,,Sadness,SNA,,
+,,,AAI,,
+,,,AAI,,
+,,Neutral,AAI,,
+,,Angry,AAI,,
+,,,CC,,
+,,Angry,CC,,
+,,Sadness,CC,,
+,,,CC,,
+,,Happiness,SNA,,
+,,Sadness,SNA,,
+,,Neutral,SNA,,
+,,Neutral,SNA,,

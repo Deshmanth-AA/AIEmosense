@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ title }}</title>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f4f4f9;
+            color: #333;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+        
+        .plot-container {
+            max-width: 1200px;
+            width: 100%;
+            background: #ffffff;
+            border-radius: 12px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            text-align: center;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        
+        h1 {
+            text-align: center;
+            margin: 20px 0;
+            color: #2c3e50;
+            width: 100%;
+        }
+        
+        .plot {
+            margin: 20px auto;
+            width: 100%;
+        }
+        
+        .action-button {
+            margin: 20px auto 0;
+            display: inline-block;
+            font-size: 16px;
+            font-weight: bold;
+            text-decoration: none;
+            color: white;
+            background-color: #007bff;
+            border-radius: 6px;
+            padding: 10px 20px;
+            transition: background-color 0.3s, transform 0.3s;
+            text-align: center;
+        }
+        
+        .action-button:hover {
+            background-color: #0056b3;
+            transform: scale(1.05);
+        }
+    </style>
+</head>
+<body>
+    <div class="plot-container">
+        <h1>{{ title }}</h1>
+        <div class="plot">
+            {{ plot_html | safe }}
+        </div>
+        <a href="/analysis_window" class="action-button">Back to Dashboard</a>
+    </div>
+
+    <script>
+        // Ensure the Plotly title doesn't override the page title
+        var plotlyConfig = {
+            displaylogo: false,
+            responsive: true,
+            modeBarButtonsToRemove: ['sendDataToCloud']
+        };
+        
+        // Select all Plotly plot elements
+        var plotElements = document.querySelectorAll('.js-plotly-plot');
+        
+        plotElements.forEach(function(plotElement) {
+            Plotly.newPlot(plotElement, plotElement.data, plotElement.layout, plotConfig);
+        });
+    </script>
+</body>
+</html>

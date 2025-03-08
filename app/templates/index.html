@@ -1,0 +1,375 @@
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Face and Emotion Recognition</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            background-color: #f0f0f0;
+        }
+        h1 {
+            color: #333;
+        }
+        #video-container {
+            border: 2px solid #333;
+            margin-bottom: 20px;
+        }
+        #records-container {
+            width: 80%;
+            max-height: 300px;
+            overflow-y: auto;
+            background-color: white;
+            padding: 10px;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+    <h1>Face and Emotion Recognition</h1>
+    <div id="video-container">
+        <img src="{{ url_for('video_feed') }}" width="640" height="480">
+    </div>
+    <div id="records-container">
+        <h2>Records</h2>
+        <table id="records-table">
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Attendance</th>
+                    <th>Emotion</th>
+                    <th>Subject</th>
+                    <th>Date</th>
+                    <th>Time</th>
+                </tr>
+            </thead>
+            <tbody id="records-body">
+                <!-- Records will be dynamically populated -->
+            <!-- </tbody>
+        </table>
+    </div>
+
+    <script>
+        function fetchRecords() {
+            fetch('/records')
+                .then(response => response.json())
+                .then(records => {
+                    const recordsBody = document.getElementById('records-body');
+                    recordsBody.innerHTML = ''; // Clear existing records
+                    
+                    records.forEach(record => {
+                        const row = document.createElement('tr');
+                        row.innerHTML = `
+                            <td>${record.name}</td>
+                            <td>${record.attendance}</td>
+                            <td>${record.emotion}</td>
+                            <td>${record.subject}</td>
+                            <td>${record.date}</td>
+                            <td>${record.time}</td>
+                        `;
+                        recordsBody.appendChild(row);
+                    });
+                })
+                .catch(error => console.error('Error fetching records:', error));
+        }
+
+        // Fetch records every 60 seconds
+        setInterval(fetchRecords, 60000);
+        fetchRecords(); // Initial fetch
+    </script>
+</body>
+</html> -->
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> AI Emosense – Emotion Detection and Attendance System</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" rel="stylesheet">
+    <style>
+        :root {
+            --primary-color: #4f46e5;
+            --secondary-color: #818cf8;
+            --background-color: #f8fafc;
+            --card-background: #ffffff;
+        }
+
+        body {
+            background-color: var(--background-color);
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+        }
+
+        .page-header {
+            background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+            color: white;
+            padding: 2rem 0;
+            margin-bottom: 2rem;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+        }
+
+        .video-container {
+            background: var(--card-background);
+            border-radius: 1rem;
+            padding: 1rem;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+            margin-bottom: 2rem;
+        }
+
+        .video-feed {
+            border-radius: 0.5rem;
+            overflow: hidden;
+        }
+
+        .records-card {
+            background: var(--card-background);
+            border-radius: 1rem;
+            padding: 1.5rem;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+        }
+
+        .filter-container {
+            background: #f1f5f9;
+            border-radius: 0.5rem;
+            padding: 1rem;
+            margin-bottom: 1.5rem;
+        }
+
+        .form-select {
+            border-radius: 0.5rem;
+            border: 1px solid #e2e8f0;
+            padding: 0.5rem;
+            margin-bottom: 0.5rem;
+        }
+
+        .table {
+            border-radius: 0.5rem;
+            overflow: hidden;
+        }
+
+        .table thead {
+            background-color: #f8fafc;
+        }
+
+        .table th {
+            font-weight: 600;
+            color: #1e293b;
+            border-bottom: 2px solid #e2e8f0;
+        }
+
+        .table td {
+            vertical-align: middle;
+            color: #475569;
+        }
+
+        .analysis-btn {
+            position: fixed;
+            bottom: 2rem;
+            right: 2rem;
+            background: var(--primary-color);
+            color: white;
+            border: none;
+            border-radius: 2rem;
+            padding: 1rem 2rem;
+            font-weight: 600;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+            transition: transform 0.2s;
+        }
+
+        .analysis-btn:hover {
+            transform: translateY(-2px);
+            background: var(--secondary-color);
+        }
+
+        .animate-fade-in {
+            animation: fadeIn 0.5s ease-in;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+    </style>
+</head>
+<body>
+    <header class="page-header">
+        <div class="container">
+            <h1 class="text-center mb-0 animate__animated animate__fadeIn"> AI Emosense – Emotion Detection and Attendance System</h1>
+        </div>
+    </header>
+
+    <div class="container">
+        <div class="video-container animate__animated animate__fadeIn">
+            <div class="video-feed">
+                <img src="{{ url_for('video_feed') }}" class="img-fluid w-100">
+            </div>
+        </div>
+
+        <div class="records-card animate__animated animate__fadeIn">
+            <h2 class="mb-4">Records</h2>
+
+            <div class="filter-container">
+                <div class="row row-cols-1 row-cols-md-5 g-3">
+                    <div class="col-md-3">
+                        <select id="nameFilter" class="form-select">
+                            <option value="">Filter by Name</option>
+                        </select>
+                    </div>
+                    <div class="col-md-3">
+                        <select id="attendanceFilter" class="form-select">
+                            <option value="">Filter by Attendance</option>
+                        </select>
+                    </div>
+                    <div class="col-md-3">
+                        <select id="emotionFilter" class="form-select">
+                            <option value="">Filter by Emotion</option>
+                        </select>
+                    </div>
+                    <div class="col-md-3">
+                        <select id="subjectFilter" class="form-select">
+                            <option value="">Filter by Subject</option>
+                        </select>
+                    </div>
+                    <div class="col-md-3">
+                        <select id="dateFilter" class="form-select">
+                            <option value="">Filter by Date</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+
+            <div class="table-responsive">
+                <table class="table table-hover">
+                    <thead>
+                        <tr>
+                            <th>Name</th>
+                            <th>Attendance</th>
+                            <th>Emotion</th>
+                            <th>Subject</th>
+                            <th>Date</th>
+                            <th>Time</th>
+                        </tr>
+                    </thead>
+                    <tbody id="records-body">
+                        <!-- Records will be dynamically populated -->
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <button class="analysis-btn" onclick="window.location.href='/analysis_window'">
+        Open Analysis
+    </button>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        function populateFilters(records) {
+            const nameFilter = document.getElementById('nameFilter');
+            const attendanceFilter = document.getElementById('attendanceFilter');
+            const emotionFilter = document.getElementById('emotionFilter');
+            const subjectFilter = document.getElementById('subjectFilter');
+            const dateFilter = document.getElementById('dateFilter');
+
+            const uniqueNames = [...new Set(records.map(record => record.name))];
+            const uniqueAttendance = [...new Set(records.map(record => record.attendance))];
+            const uniqueEmotions = [...new Set(records.map(record => record.emotion))];
+            const uniqueSubjects = [...new Set(records.map(record => record.subject))];
+            const uniqueDate= [...new Set(records.map(record => record.date))];
+
+            [nameFilter, attendanceFilter, emotionFilter, subjectFilter,dateFilter].forEach(filter => 
+                filter.innerHTML = '<option value="">Filter by ' + filter.id.replace('Filter', '') + '</option>'
+            );
+
+            uniqueNames.forEach(name => nameFilter.innerHTML += `<option value="${name}">${name}</option>`);
+            uniqueAttendance.forEach(attendance => attendanceFilter.innerHTML += `<option value="${attendance}">${attendance}</option>`);
+            uniqueEmotions.forEach(emotion => emotionFilter.innerHTML += `<option value="${emotion}">${emotion}</option>`);
+            uniqueSubjects.forEach(subject => subjectFilter.innerHTML += `<option value="${subject}">${subject}</option>`);
+            uniqueDate.forEach(date => dateFilter.innerHTML += `<option value="${date}">${date}</option>`);
+        }
+
+        function fetchRecords() {
+            fetch('/records')
+                .then(response => response.json())
+                .then(records => {
+                    const recordsBody = document.getElementById('records-body');
+                    recordsBody.innerHTML = '';
+
+                    records.forEach(record => {
+                        const row = document.createElement('tr');
+                        row.className = 'animate-fade-in';
+                        row.innerHTML = `
+                            <td>${record.name}</td>
+                            <td>${record.attendance}</td>
+                            <td>${record.emotion}</td>
+                            <td>${record.subject}</td>
+                            <td>${record.date}</td>
+                            <td>${record.time}</td>
+                        `;
+                        recordsBody.appendChild(row);
+                    });
+
+                    populateFilters(records);
+                })
+                .catch(error => console.error('Error fetching records:', error));
+        }
+
+        function applyFilters() {
+            const nameFilter = document.getElementById('nameFilter').value;
+            const attendanceFilter = document.getElementById('attendanceFilter').value;
+            const emotionFilter = document.getElementById('emotionFilter').value;
+            const subjectFilter = document.getElementById('subjectFilter').value;
+            const dateFilter = document.getElementById('dateFilter').value;
+
+            const rows = document.querySelectorAll('#records-body tr');
+
+            rows.forEach(row => {
+                const cells = row.children;
+                const name = cells[0].textContent;
+                const attendance = cells[1].textContent;
+                const emotion = cells[2].textContent;
+                const subject = cells[3].textContent;
+                const date = cells[4].textContent;
+
+                const matchesName = !nameFilter || name === nameFilter;
+                const matchesAttendance = !attendanceFilter || attendance === attendanceFilter;
+                const matchesEmotion = !emotionFilter || emotion === emotionFilter;
+                const matchesSubject = !subjectFilter || subject === subjectFilter;
+                const matchesDate =!dateFilter || date === dateFilter;
+
+                row.style.display = matchesName && matchesAttendance && matchesEmotion && matchesSubject && matchesDate ? '' : 'none';
+            });
+        }
+
+        document.getElementById('nameFilter').addEventListener('change', applyFilters);
+        document.getElementById('attendanceFilter').addEventListener('change', applyFilters);
+        document.getElementById('emotionFilter').addEventListener('change', applyFilters);
+        document.getElementById('subjectFilter').addEventListener('change', applyFilters);
+        document.getElementById('dateFilter').addEventListener('change', applyFilters);
+
+        setInterval(fetchRecords, 60000);
+        fetchRecords();
+    </script>
+</body>
+</html>
+
+
